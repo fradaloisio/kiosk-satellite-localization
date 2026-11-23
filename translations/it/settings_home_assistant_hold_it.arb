@@ -1,0 +1,12 @@
+{
+  "@@locale": "it",
+  "settingHaHoldModeTitle": "Modalità di sospensione",
+  "settingHaHoldModeDescription": "Mantiene sullo schermo la vista attuale. Mette in pausa il salvaschermo, la rotazione della dashboard e il timer di ritorno alla vista iniziale fino alla disattivazione.",
+  "settingHaHoldReleaseMinutesTitle": "Fine tenere premuto automaticamente dopo",
+  "settingHaHoldReleaseMinutesDescription": "Disattiva automaticamente la modalità di sospensione dopo l’intervallo scelto. Imposta 0 per disattivarla solo manualmente.",
+  "haHoldHint": "Pin la vista corrente, rilascio automatico, voce del menu",
+  "haNever": "Mai.",
+  "haMinutes": "{minutes} min",
+  "haHours": "{hours} h",
+  "haHoursMinutes": "{hours} h {minutes} min"
+}

@@ -1,0 +1,20 @@
+{
+  "@@locale": "it",
+  "gestureTester": "Tester di gestione della mano",
+  "gestureOpenTester": "Tester aperto",
+  "gestureCameraFirst": "Accendere prima la fotocamera nelle impostazioni della fotocamera.",
+  "gestureTesterHelp": "Guarda quali dita legge la fotocamera, per imparare a tenere la mano.",
+  "gestureHandHelp": "Tenere la mano in alto a spalla, palma alla fotocamera, dita si diffondono. Curl un dito fino a cadere dal conteggio. Infilare il pollice attraverso il palmo per mostrare quattro: il pollice conta solo su una mano aperta.",
+  "gestureTesterPaused": "I gesti non sparano mentre il tester è aperto.",
+  "gestureShowHand": "Mostra una mano alla telecamera.",
+  "gestureTesterTrigger": "Attiva: {action}",
+  "gestureNoCount": "Nessun gesto usa questo conteggio.",
+  "gestureNoHand": "Nessuna mano in vista",
+  "gestureReadingHand": "Leggere la mano",
+  "gestureNoFingers": "Nessuna dita in su",
+  "gestureHandsCount": "{count} mani in vista, leggendo quello più grande.",
+  "gestureTesterSearch": "Uno sguardo dal vivo alle dita che la fotocamera legge.",
+  "gestureHoldConfirmed": "Hold confermato",
+  "gestureHoldProgress": "Mantenere i progressi: {progress}",
+  "gestureTesterHoldDuration": "Durata di attesa: {duration}"
+}

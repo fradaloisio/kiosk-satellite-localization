@@ -1,0 +1,16 @@
+{
+  "@@locale": "it",
+  "pluginActions": "Azioni",
+  "pluginKioskDrawer": "Cassetto Kiosk",
+  "pluginToAssignAGestureOpenGesturesAndChooseRun": "Per assegnare un gesto, aprire Gestures e scegliere Eseguire un'azione plugin.",
+  "pluginShowInKioskDrawer": "Mostra nel cassetto del kiosk",
+  "pluginAlsoAvailableWhileLockedIfTheKioskDrawerIs": "Disponibile anche se bloccato se il cassetto del kiosk è consentito.",
+  "pluginExposeToHomeAssistant": "Esposizione a Home Assistant",
+  "pluginAddsAButtonToTheKioskEsphomeDeviceRequires": "Aggiunge un pulsante al dispositivo kiosk ESPHome. Richiede ESPHome e entità native.",
+  "pluginConfigureName": "Configurare {name}",
+  "pluginThePluginDidNotAnswerInTime": "Il plugin non ha risposto in tempo.",
+  "pluginNoChoicesYetRefreshToLookForThem": "Non ho ancora scelta. Rifiuta di cercarli.",
+  "pluginThisChoiceIsNoLongerListed": "Questa scelta non è più elencata.",
+  "pluginDashboardLink": "Collegamento di Dashboard",
+  "pluginDashboardLinkHint": "Puntare l'azione di tocco di un pulsante della dashboard a questo link."
+}

@@ -1,0 +1,13 @@
+{
+  "@@locale": "it",
+  "esphomeNearby": "Dispositivi vicini",
+  "esphomeNearbySearch": "I dispositivi Bluetooth questo kiosk sente, con i nomi dove conosciuto.",
+  "esphomeNearbyEmpty": "Non ho ancora sentito niente.",
+  "esphomeNearbyWaiting": "Non ho ancora sentito niente. I dispositivi appaiono qui una volta che il proxy sta controllando.",
+  "esphomeRotating": "(indirizzo di rotazione)",
+  "esphomeNearbyCount": "Mostrando il primo {count} di {total}.",
+  "esphomeSlots": "Fino a {count} i dispositivi possono essere collegati in una sola volta attraverso questo proxy. Home Assistant tratta ulteriori dispositivi attraverso altri proxy.",
+  "esphomeSecondsAgo": "{count}s fa",
+  "esphomeMinutesAgo": "{count} min fa",
+  "esphomeHoursAgo": "{count} h fa"
+}

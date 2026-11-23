@@ -1,0 +1,21 @@
+{
+  "@@locale": "it",
+  "settingIntercomAnswerModeTitle": "Modalità di risposta",
+  "settingIntercomAnswerModeDescription": "L'anello chiede sullo schermo. Risponde automaticamente apre la chiamata dopo un centesimo.",
+  "settingIntercomRingSecondsTitle": "Anello per",
+  "settingIntercomRingSecondsDescription": "Quanto tempo suona una chiamata prima che contenga come perso.",
+  "settingIntercomRingSoundTitle": "Suono di anello",
+  "settingIntercomRingSoundVolumeDescription": "Gioca al volume dell'anello.",
+  "settingIntercomRingVolumeTitle": "Volume dell'anello",
+  "settingIntercomRingVolumeDescription": "Come suona ad alta voce, a parte il volume dei media.",
+  "settingIntercomAcceptAnnouncementsTitle": "Accettare gli annunci",
+  "settingIntercomAcceptAnnouncementsDescription": "Gioca Annuncio a tutti dagli altri kiosk.",
+  "intercomOptionAnswerRing": "Anello",
+  "intercomOptionAnswerAuto": "Rispondi automaticamente",
+  "intercomOptionAnswerDnd": "Non disturbare",
+  "intercomOptionAnswer15": "15 secondi",
+  "intercomOptionAnswer30": "30 secondi",
+  "intercomOptionAnswer45": "45 secondi",
+  "intercomOptionAnswer60": "60 secondi",
+  "intercomAnswerSection": "Risposta"
+}

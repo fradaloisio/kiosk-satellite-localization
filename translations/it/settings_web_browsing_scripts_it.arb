@@ -1,0 +1,9 @@
+{
+  "@@locale": "it",
+  "settingBrowserInjectJsTitle": "Iniezione di JavaScript sulla dashboard HA",
+  "settingBrowserInjectJsDescription": "Eseguire questo codice JavaScript dopo ogni carico della pagina della dashboard. Utile nascondere elementi distratti o modificare una dashboard che non controlli.",
+  "settingBrowserInjectJsExternalTitle": "Iniezione di JavaScript su pagine esterne",
+  "settingBrowserInjectJsExternalDescription": "Esegui questo codice JavaScript dopo aver caricato ogni pagina esterna: le pagine aperte da un link nella dashboard, quelle della rotazione della dashboard e il sito web del salvaschermo. Il codice non viene eseguito sulla pagina di Music Assistant.",
+  "browserInjectJsPlaceholder": "// Esempio: nascondere un elemento distratto\ndocument.querySelector('#banner').style.display = 'none';",
+  "browserInjectJsExternalPlaceholder": "// Esempio: zoom un sito che ignora il livello di zoom della dashboard\ndocument.documentElement.style.zoom = '1.25';"
+}

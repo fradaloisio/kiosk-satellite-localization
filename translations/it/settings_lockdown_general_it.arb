@@ -1,0 +1,16 @@
+{
+  "@@locale": "it",
+  "settingLockdownEnabledTitle": "Abilita la modalità Lockdown",
+  "settingLockdownEnabledDescription": "Disattiva le interazioni dello schermo fino a quando non si spegne da Home Assistant o con il gesto di uscita.",
+  "settingLockdownAutoUnlockMinutesTitle": "Sblocca automaticamente dopo",
+  "settingLockdownAutoUnlockMinutesDescription": "Disattiva la modalità Lockdown dopo questo lungo periodo quando è iniziato dal menu del kiosk. Impostare a 0 per rimanere bloccato.",
+  "settingLockdownBlackoutTitle": "Schermo Blackout",
+  "settingLockdownBlackoutDescription": "Gira lo schermo nero mentre è chiuso.",
+  "settingLockdownAllowScreensaverTitle": "Consentire salvaschermo",
+  "settingLockdownAllowScreensaverDescription": "Consente al salvaschermo di avviarsi quando lo schermo è bloccato. La disattivazione al movimento resta sospesa finché il blocco è attivo.",
+  "settingLockdownExitGestureTitle": "gesto di uscita Lockdown",
+  "settingLockdownExitGestureDescription": "I rubinetti veloci girano la modalità di blocco, dopo che il kiosk PIN se uno è impostato. Le varianti Hold hanno bisogno dell'ultimo rubinetto tenuto giù. Quando disabilitato, solo l'amministratore remoto o Home Assistant possono spegnerlo.",
+  "lockdownGestureNone": "Disabili (solo per rimuovere)",
+  "lockdownExplanation": "Lockdown Mode rende la dashboard non interattivo, braccia ogni protezione Kiosk Mode senza cambiare le impostazioni della modalità Kiosk, e mutes svegliare il rilevamento delle parole mentre è acceso. Con il sistema UI guard abilitato (sopra), l'ombra di notifica e i recenti sono bloccati troppo. Home Assistant ottiene un switch modalità Lockdown su ESPHome.",
+  "lockdownSearch": "Impostarlo dal Remote Admin UI; le sue sovvenzioni vivono sotto le autorizzazioni del sistema richieste."
+}

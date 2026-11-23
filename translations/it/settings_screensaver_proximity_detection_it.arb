@@ -1,0 +1,14 @@
+{
+  "@@locale": "it",
+  "settingScreensaverDismissOnProximityTitle": "Mancanza di prossimità",
+  "settingScreensaverDismissOnProximityDescription": "Guarda il sensore di prossimità mentre il salvaschermo è su e svegliare lo schermo quando qualcosa viene vicino al dispositivo. Un dispositivo con solo sensori fatti per le chiamate (\"palm\", \"touch\") non funzionerà.",
+  "settingScreensaverDismissOnProximityScreenOffOnlyTitle": "Solo quando lo schermo è spento",
+  "settingScreensaverDismissOnProximityScreenOffOnlyDescription": "Tenere il salvaschermo visibile quando qualcosa si avvicina mentre lo schermo è acceso. Una volta che lo schermo si spegne, il rilevamento sveglia la dashboard.",
+  "settingScreensaverPostponeOnProximityTitle": "Postpone salvaschermo sulla prossimità",
+  "settingScreensaverPostponeOnProximityDescription": "Ritardo attivando il salvaschermo mentre qualcosa è vicino al sensore.",
+  "screensaverDetectionProximityPage": "Detezione della prossimità",
+  "screensaverDetectionProximityHint": "Dismettere o rinviare il salvaschermo sul sensore di prossimità",
+  "screensaverDetectionNoProximity": "Non disponibile su questo dispositivo: non ha sensore di prossimità.",
+  "screensaverDetectionSensor": "Sensore",
+  "screensaverDetectionSensorHelp": "Ciò che il dispositivo segnala come sensore di prossimità. Un sensore fatto per le chiamate denominate \"palm\" o \"touch\" non funzionerà."
+}

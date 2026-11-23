@@ -1,0 +1,17 @@
+{
+  "@@locale": "it",
+  "esphomeLocation": "Posizione",
+  "esphomeLocationSearch": "La posizione garantisce i sensori di localizzazione di cui hanno bisogno.",
+  "esphomeBluetoothSearch": "I dispositivi vicini garantiscono la scansione del proxy Bluetooth.",
+  "esphomeLocationMissing": "Senza questo il ricevitore GPS non può essere letto e i sensori di posizione rimangono sconosciuti.",
+  "esphomeLocationServicesOff": "La posizione è fuori nelle impostazioni del dispositivo, quindi il ricevitore non offre nulla.",
+  "esphomeLocationApproximate": "Solo la posizione approssimativa è consentita, e il ricevitore GPS ha bisogno di posizione precisa.",
+  "esphomeLocationGranted": "I sensori di posizione possono leggere il ricevitore GPS.",
+  "esphomeBluetoothGranted": "Il proxy può eseguire la scansione per i dispositivi Bluetooth vicini.",
+  "esphomeBluetoothMissing": "Senza questo il proxy non può eseguire la scansione per i dispositivi.",
+  "esphomeBluetoothLocationMissing": "Android offre solo risultati di scansione Bluetooth, beacon inclusi, con Location concessa. Il proxy non legge mai la posizione del dispositivo.",
+  "esphomeBluetoothLocationOff": "La posizione è fuori nelle impostazioni del dispositivo, quindi la scansione Bluetooth non trova nulla.",
+  "esphomeBluetoothBeacons": "La scansione Bluetooth può sentire i beacon.",
+  "esphomeSent": "Inviato",
+  "esphomeNotsaved": "Non salvato"
+}

@@ -1,0 +1,12 @@
+{
+  "@@locale": "it",
+  "overviewNoScreenshot": "Nessun screenshot",
+  "overviewStill": "Ancora.",
+  "overviewLive": "In tempo reale",
+  "overviewFullSize": "Dimensione completa",
+  "overviewLiveInterval": "Vivere, ogni 5 secondi",
+  "overviewTaken": "Preso {age}",
+  "overviewCameraViewNamed": "Vista della fotocamera: {name}",
+  "overviewCameraView": "Vista panoramica",
+  "overviewScreenOffState": "Lo schermo è spento"
+}

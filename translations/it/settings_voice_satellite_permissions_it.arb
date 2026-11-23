@@ -1,0 +1,14 @@
+{
+  "@@locale": "it",
+  "voiceMicHeld": "Il rilevamento della parola di attivazione può sentirti.",
+  "voiceMicBlocked": "Bloccato. Android non chiederà di nuovo, in modo da consentire nelle impostazioni dell'app.",
+  "voiceMicMissing": "Senza questo nulla sta ascoltando per la parola di veglia.",
+  "voiceForegroundHeld": "Kiosk Satellite può venire avanti quando ti sente.",
+  "voiceForegroundMissing": "Senza questo si sente la parola di attivazione e non succede nulla.",
+  "voiceNotificationHeld": "La notifica in corso che consente l'ascolto di sfondo.",
+  "voiceNotificationMissing": "Necessario per l'ascolto di sottofondo di lavoro in modo affidabile.",
+  "voiceBatteryHeld": "Android lascerà l'ascoltatore in esecuzione.",
+  "voiceBatteryMissing": "Senza questo l'ascoltatore viene fermato dopo poche ore.",
+  "voicePermissionDirections": "Concedi questi sul dispositivo stesso: scorrere dal bordo sinistro → Impostazioni → Voice Satellite ZXQXZ → autorizzazioni di sistema richieste.",
+  "voicePermissionsSearch": "Microfono e l'altro garantisce le esigenze di rilevamento della parola di attivazione."
+}

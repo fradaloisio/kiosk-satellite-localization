@@ -1,0 +1,23 @@
+{
+  "@@locale": "it",
+  "settingScreensaverGalleryItemsTitle": "Fotografie",
+  "settingScreensaverGalleryItemsDescription": "Foto e video che il salvaschermo mostra a rotazione. Sceglili dalla galleria del dispositivo. Una nuova selezione sostituisce quella precedente.",
+  "settingScreensaverGalleryIntervalTitle": "Secondi per foto",
+  "settingScreensaverGalleryShuffleTitle": "Ordine casuale",
+  "settingScreensaverGalleryShuffleDescription": "Cicli la selezione in ordine casuale.",
+  "settingScreensaverGalleryTransitionTitle": "Transizione",
+  "settingScreensaverGalleryTransitionDescription": "Come una foto si consegna all'altra.",
+  "settingScreensaverGalleryFillTitle": "Riempire lo schermo",
+  "settingScreensaverGalleryFillDescription": "Ingrandisce sempre ogni foto, tagliando quello che non si adatta.",
+  "settingScreensaverGalleryEdgeTapsTitle": "Toccare i bordi per cambiare le diapositive",
+  "settingScreensaverGalleryEdgeTapsDescription": "Un rubinetto a sinistra o a destra del quinto schermo mostra la precedente o successiva diapositiva invece di licenziare.",
+  "screensaverMediaGalleryPage": "Salvaschermo con foto dalla galleria",
+  "screensaverMediaGalleryHint": "Foto, tempismo, shuffle, transizione",
+  "screensaverMediaLoadingPhotos": "Caricamento foto...",
+  "screensaverMediaCopying": "Fotocopiatrice {index} di {total}...",
+  "screensaverMediaCopyFailed": "Non è possibile copiare le foto",
+  "screensaverMediaSmallerSelection": "Prova una selezione più piccola.",
+  "screensaverMediaNoPhotos": "Nessuna foto selezionata",
+  "screensaverMediaSelected": "{count} selezionato",
+  "screensaverMediaPickOnDevice": "Non selezionato. Scegli sul dispositivo."
+}

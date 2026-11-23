@@ -1,0 +1,10 @@
+{
+  "@@locale": "it",
+  "settingDlnaEnabledTitle": "Attivare il rendering DLNA",
+  "settingDlnaEnabledDescription": "Mostra immagini e supporti di riproduzione spinti da Home Assistant o da qualsiasi app DLNA. Il dispositivo appare come un lettore multimediale chiamato dopo il nome del dispositivo.",
+  "settingDlnaAudioBackgroundTitle": "Mantenere l'audio in background",
+  "settingDlnaAudioBackgroundDescription": "L'audio pushed gioca senza prendere il controllo dello schermo.",
+  "settingDlnaPortTitle": "Porta server",
+  "settingDlnaPortDescription": "Il porto che il renderer è acceso, riempito quando inizia. Cambiare per spostare il renderer, o chiarirlo per lasciarlo scegliere di nuovo.",
+  "settingDlnaPortPlaceholder": "Impostare quando il rendering inizia"
+}

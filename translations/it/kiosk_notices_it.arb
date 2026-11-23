@@ -1,0 +1,21 @@
+{
+  "@@locale": "it",
+  "kioskBackClose": "Premere nuovamente per chiudere l'app",
+  "kioskBackAgain": "Premere di nuovo per tornare indietro",
+  "kioskHoldOn": "Modalità di sospensione",
+  "kioskHoldOff": "Tenere premuto il mode off",
+  "kioskHoldNotice": "La vista attuale rimane fino a quando non si spegne.",
+  "kioskDownloadComplete": "Scarica completo",
+  "kioskDownloadFailed": "Download non riuscito",
+  "kioskDownload": "Scarica",
+  "kioskDownloading": "Download in corso",
+  "kioskOpen": "Aprire",
+  "kioskTip": "Suggerimento",
+  "kioskMenuHint": "Passare dal bordo sinistro per aprire il menu.",
+  "kioskUnknownLink": "Link di kiosk sconosciuto",
+  "kioskOpenAppFailed": "Non è possibile aprire l'app",
+  "kioskWebViewMissing": "Android System WebView non è installato",
+  "kioskWebViewMissingHelp": "Questo dispositivo non ha alcun provider WebView, quindi Home Assistant non può essere mostrato. Installare sistema Android WebView o Chrome, quindi riavviare Kiosk Satellite.",
+  "kioskDuraSpeedBlocking": "DuraSpeed blocca la dashboard",
+  "kioskDuraSpeedBlockingHelp": "Questo tablet DuraSpeed mantiene il renderr della dashboard dall'inizio, e alcune compresse non danno impostazioni pagina. Spegnere una volta sopra adb, quindi riavviare Kiosk Satellite:"
+}

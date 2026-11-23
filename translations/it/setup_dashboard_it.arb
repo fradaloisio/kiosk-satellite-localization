@@ -1,0 +1,8 @@
+{
+  "@@locale": "it",
+  "setupChooseDashboard": "Scegli una dashboard",
+  "setupDashboardHelp": "Questo è ciò che il kiosk mostrerà quando inizia.",
+  "setupSelectDashboard": "Seleziona una dashboard",
+  "setupSelectDashboardHelp": "Scegliere la dashboard che verrà visualizzato il kiosk. È possibile modificarlo in seguito in Impostazioni.",
+  "setupHeadlessGrants": "Questo dispositivo non ha schermo, quindi Android non può chiedere questi su di esso. Dare ciascuno sopra adb, quindi finire qui."
+}

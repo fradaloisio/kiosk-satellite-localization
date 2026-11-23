@@ -1,0 +1,22 @@
+{
+  "@@locale": "it",
+  "settingScreensaverDismissOnPersonTitle": "Disdetta a persona",
+  "settingScreensaverDismissOnPersonDescription": "Leggere il sensore di persona del dispositivo mentre il salvaschermo è in alto e svegliare lo schermo quando qualcuno è di fronte a esso.",
+  "settingScreensaverDismissOnPersonScreenOffOnlyTitle": "Solo quando lo schermo è spento",
+  "settingScreensaverDismissOnPersonScreenOffOnlyDescription": "Tenere il salvaschermo visibile quando qualcuno arriva mentre lo schermo è acceso. Una volta che lo schermo si spegne, il rilevamento sveglia la dashboard. Tocca ancora scarta il salvaschermo.",
+  "settingScreensaverPostponeOnPersonTitle": "Postpone salvaschermo su persona",
+  "settingScreensaverPostponeOnPersonDescription": "Ritardare attivando il salvaschermo mentre qualcuno è di fronte al dispositivo.",
+  "screensaverDetectionPersonPage": "Rilevamento delle persone",
+  "screensaverDetectionPersonHint": "Dismettere o rinviare il salvaschermo sul sensore di persona del dispositivo",
+  "screensaverDetectionOccupancy": "Occupazione",
+  "screensaverDetectionStatusUnavailable": "Stato non disponibile.",
+  "screensaverDetectionOff": "Fuori.",
+  "screensaverDetectionStarting": "Cominciare...",
+  "screensaverDetectionWaiting": "Attendere il primo battito cardiaco. Il sensore segnala ogni 30 secondi mentre qualcuno è in vista.",
+  "screensaverDetectionLastHeartbeat": "Ultimo battito cardiaco {ago}.",
+  "screensaverDetectionSecondsAgo": "{count}s fa",
+  "screensaverDetectionMinutesAgo": "{count} min fa",
+  "screensaverDetectionHoursAgo": "{count} h fa",
+  "screensaverDetectionDetected": "Detetto",
+  "screensaverDetectionClear": "Cancellazione"
+}

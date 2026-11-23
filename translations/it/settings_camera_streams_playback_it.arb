@@ -1,0 +1,19 @@
+{
+  "@@locale": "it",
+  "settingCameraAllowH265Title": "Consentire flussi H.265",
+  "settingCameraAllowH265Description": "Riproduci i flussi della fotocamera H.265 come sono. Un dispositivo che non può decodificare H.265 mostra invece un'immagine vuota.",
+  "settingCameraPreferMseTitle": "Preferisci MSE sopra WebRTC",
+  "settingCameraPreferMseDescription": "Streaming delle telecamere Go2RTC prima di MSE. Per i dispositivi che non possono giocare WebRTC; aggiunge un secondo o due di ritardo.",
+  "settingCameraPreferHlsTitle": "Preferisci HLS sopra WebRTC",
+  "settingCameraPreferHlsDescription": "Streaming delle telecamere Home Assistant prima di HLS. Per i dispositivi che non possono giocare WebRTC; aggiunge alcuni secondi di ritardo.",
+  "settingCameraSingleAudioTitle": "Suono di riproduzione per una singola fotocamera",
+  "settingCameraSingleAudioDescription": "Gioca il suono della fotocamera quando una sola fotocamera è sullo schermo. Griglia con diverse telecamere rimanere in silenzio.",
+  "settingCameraPinchZoomTitle": "Pinch per ingrandire una singola fotocamera",
+  "settingCameraPinchZoomDescription": "Zoom nell'immagine con due dita quando una sola fotocamera è sullo schermo. Trascinare per muoversi, double-tap per resettare.",
+  "settingCameraAutoDismissSecondsTitle": "Chiudi automaticamente dopo",
+  "settingCameraAutoDismissCompassDescription": "Chiudi la vista fotocamera dopo questo intervallo. Imposta 0 per lasciarla aperta. Il salvaschermo della fotocamera resta invariato. Nel layout Compass si applica l’opzione Ritorna al centro.",
+  "cameraStreamsPlayback": "Gioco d'azzardo",
+  "cameraStreamsOff": "Fuori!",
+  "cameraStreamsSeconds": "{seconds}",
+  "cameraStreamsGridHelp": "Per i dispositivi a bassa potenza, utilizzare flussi Go2RTC a bassa risoluzione in vista e impostare facoltativamente un flusso a schermo intero separato."
+}

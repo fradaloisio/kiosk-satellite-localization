@@ -1,0 +1,17 @@
+{
+  "@@locale": "it",
+  "kioskHomeScreen": "Schermo di casa",
+  "kioskCheckingDevice": "Controllare il dispositivo...",
+  "kioskFireOs": "Fire OS non permette di sostituire il suo lanciatore.",
+  "kioskUnsupported": "Questo dispositivo non consente di modificare la schermata iniziale.",
+  "kioskRecovered": "Disattivato automaticamente dopo ripetuti inizi falliti; il lanciatore precedente è stato ripristinato. Accendere l'interruttore per riprova.",
+  "kioskHeld": "Kiosk Satellite è la schermata iniziale. Il kiosk inizia al boot e ogni home press torna ad esso.",
+  "kioskDisabled": "Non la schermata iniziale. Accendere Act come la schermata iniziale sopra.",
+  "kioskWaiting": "Non ancora la schermata iniziale attuale: il dispositivo è in attesa di una conferma.",
+  "kioskOpenHomeSettings": "Aprire le impostazioni di casa",
+  "kioskSetDefault": "Impostare come predefinito",
+  "kioskActive": "Attivo",
+  "kioskNotHome": "Non la schermata iniziale.",
+  "kioskWaitingRemote": "In attesa di una conferma sul dispositivo: la finestra di dialogo del sistema o le impostazioni di casa si aprono lì.",
+  "kioskSetDevice": "Impostazione sul dispositivo"
+}

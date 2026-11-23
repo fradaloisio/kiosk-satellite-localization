@@ -1,0 +1,10 @@
+{
+  "@@locale": "it",
+  "deviceScreenOffPermission": "Spegnere lo schermo ha bisogno di un permesso di una volta. Il tablet ora mostra la schermata di sovvenzione \"device admin\". Approva lì, poi riprovare.",
+  "deviceAdminInactive": "L'autorizzazione dell'amministratore del dispositivo non è attiva.",
+  "deviceRestartOverlay": "Riavviare ha bisogno del permesso \"Display over other apps\" o l'applicazione non può riportarsi indietro. La schermata di sovvenzione si sta aprendo sul dispositivo; permetterlo lì e riprovare.",
+  "deviceRebootPermission": "Riavviare il dispositivo ha bisogno di Kiosk Satellite fornito come proprietario del dispositivo o una connessione Shizuku concessa.",
+  "deviceRestartAndroidOnly": "Il riavvio è disponibile solo su Android.",
+  "deviceRestartShizukuRefused": "Shizuku ha rifiutato il riavvio",
+  "deviceRestartFailed": "Riavvio fallito: {error}"
+}

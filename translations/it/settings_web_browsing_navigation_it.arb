@@ -1,0 +1,18 @@
+{
+  "@@locale": "it",
+  "settingAutoReloadOnErrorTitle": "Ricarica automatica sull'errore",
+  "settingAutoReloadOnErrorDescription": "Recuperare automaticamente da errori di pagina e crash app.",
+  "settingPullToRefreshTitle": "Abilitare tirare per rinfrescare",
+  "settingPullToRefreshDescription": "Trascinare giù dalla parte superiore della pagina per ricaricarlo. Off per impostazione predefinita: su una dashboard di scorrimento un tiro accidentale è facile.",
+  "settingPullToRefreshClearCacheTitle": "Cancellare la cache quando si tira per rinfrescare",
+  "settingPullToRefreshClearCacheDescription": "Un pull elimina anche la cache del web e i modelli di parola di attivazione prima di ricaricare, quindi tutto torna fresco.",
+  "settingBrowserZoomTitle": "Livello di zoom",
+  "settingBrowserZoomDescription": "Al di sopra di 1x per le compresse da parete viste da una distanza; sotto 1x si adatta più dashboard su un piccolo schermo.",
+  "settingPinchToZoomTitle": "Attiva pizzico per ingrandire",
+  "settingPinchToZoomDescription": "Ingrandisci la pagina con un pizzico a due fili. Off per impostazione predefinita, quindi una dashboard di kiosk rimane messo sotto tocchi stray.",
+  "settingDisableScrollingTitle": "Disattivare lo scorrimento",
+  "settingDisableScrollingDescription": "Bloccare la pagina in posizione in modo che non possa essere scorretta in qualsiasi direzione.",
+  "browserCrashPermissionHelp": "Senza questo il kiosk non può tornare dopo un incidente.",
+  "browserCrashPermissionMissing": "\"Display over other apps\" autorizzazione mancante",
+  "browserCrashPermissionRemoteHelp": "Senza di esso il kiosk non può riportarsi indietro dopo un crash. La schermata di sovvenzione appare sul tablet."
+}

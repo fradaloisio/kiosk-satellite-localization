@@ -1,0 +1,12 @@
+{
+  "@@locale": "it",
+  "launcherOverlayHeld": "Kiosk Satellite può riportarsi in primo piano e notare i tocchi nell'altra app.",
+  "launcherOverlayMissing": "Senza questo il kiosk non può tornare da solo, e i tocchi nell'altra app vanno inosservati.",
+  "launcherOverlayRemote": "Senza questo il kiosk non può tornare da solo, e i tocchi nell'altra app non vengono visti. La schermata di sovvenzione appare sul tablet.",
+  "launcherBatteryMissing": "Android può mettere in pausa l'applicazione dietro l'altro, e un orologio in pausa non riporta mai indietro il kiosk.",
+  "launcherBatteryRemote": "Android può mettere in pausa l'applicazione dietro l'altro, e un orologio in pausa non porta mai indietro il kiosk. La finestra di dialogo di sovvenzione appare sul tablet.",
+  "launcherNotificationAccessHeld": "Il kiosk rimane lontano mentre il video o la musica gioca in un'altra app.",
+  "launcherNotificationAccessMissing": "Senza questo il kiosk non può dire quando il video o la musica sta giocando e torna comunque.",
+  "launcherNotificationAccessRemote": "Senza questo il kiosk non può dire quando il video o la musica sta giocando e torna comunque. La schermata di sovvenzione appare sul tablet.",
+  "launcherPermissionsSearch": "Le sovvenzioni Return si appoggiano automaticamente."
+}

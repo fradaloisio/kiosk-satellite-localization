@@ -1,0 +1,11 @@
+{
+  "@@locale": "it",
+  "kioskForeground": "Kiosk Satellite può riportarsi in primo piano.",
+  "kioskOverlayMissing": "Senza questo il kiosk non può riportarsi indietro e lo scudo di blocco copre solo l'applicazione.",
+  "kioskGuardHeld": "L'ombra di notifica e i recenti si chiudono da soli mentre lo schermo è protetto.",
+  "kioskGuardMissing": "Senza questo l'ombra di notifica e i recenti rimangono raggiungibili. Abilita Kiosk Satellite sotto Accessibilità.",
+  "kioskOverlayRemote": "Senza questo il kiosk non può riportarsi indietro. La schermata di sovvenzione appare sul tablet.",
+  "kioskGuardRemote": "Senza questo l'ombra di notifica e i recenti rimangono raggiungibili. Abilita Kiosk Satellite sotto Accessibilità sul tablet.",
+  "kioskGrantDevice": "Concedere sul dispositivo",
+  "kioskOpenSettingsDevice": "Impostazioni aperte sul dispositivo"
+}

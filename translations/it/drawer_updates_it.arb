@@ -1,0 +1,20 @@
+{
+  "@@locale": "it",
+  "drawerVersion": "Versione {version}",
+  "drawerUpdateAvailable": "Aggiornamento disponibile",
+  "drawerUpdateInstall": "Versione {version} · toccare per installare",
+  "drawerUpdateChecking": "Controllare gli aggiornamenti...",
+  "drawerUpdateCurrent": "Fino ad oggi",
+  "drawerUpdateCurrentHelp": "Sei sull'ultima versione.",
+  "drawerUpdateCheckFailed": "Controllo dell'aggiornamento fallito",
+  "drawerUpdateOffline": "Il dispositivo è online?",
+  "drawerUpdateTo": "Aggiornamento a {version}",
+  "drawerUpdateInstructions": "Il download inizia su Aggiornamento. Android ti chiede di confermare l'installazione.",
+  "drawerUpdateRelaunch": "Senza il permesso \"Display over other apps\" l'applicazione non può riaprirsi dopo l'aggiornamento.",
+  "drawerUpdate": "Aggiornamento",
+  "drawerUpdateDownloading": "Scarica l'aggiornamento",
+  "drawerUpdateStarting": "Cominciare...",
+  "drawerUpdateFailed": "Aggiornamento fallito",
+  "drawerUpdates": "Aggiornamenti",
+  "drawerNoReleaseNotes": "Niente note di rilascio."
+}

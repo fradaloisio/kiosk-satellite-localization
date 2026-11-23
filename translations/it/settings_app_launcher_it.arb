@@ -1,0 +1,12 @@
+{
+  "@@locale": "it",
+  "settingLauncherEnabledTitle": "Abilitare Avvio app",
+  "settingLauncherEnabledDescription": "Aprire un set selezionato di applicazioni installate dal kiosk.",
+  "settingLauncherAppsDescription": "Le app che il lanciatore offre.",
+  "settingLauncherAutoReturnTitle": "Ritorna automaticamente",
+  "settingLauncherAutoReturnDescription": "Torna al kiosk una volta che l'altra app è andata intatta per un po'.",
+  "settingLauncherAutoReturnSecondsTitle": "Ritorno dopo (secondi)",
+  "settingLauncherAutoReturnSecondsDescription": "Tempo senza un tocco nell'altra app prima che il kiosk ritorni.",
+  "settingLauncherAutoReturnHoldTitle": "Attendere durante i media e le chiamate",
+  "settingLauncherAutoReturnHoldDescription": "Non tornare durante il video, la musica o le chiamate."
+}

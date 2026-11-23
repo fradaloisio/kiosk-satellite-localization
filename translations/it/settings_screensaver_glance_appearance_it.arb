@@ -1,0 +1,16 @@
+{
+  "@@locale": "it",
+  "settingScreensaverGlanceScaleTitle": "Ridimensionamento della riga",
+  "settingScreensaverGlanceScaleDescription": "Scalare la riga per adattarsi meglio alle dimensioni dello schermo.",
+  "settingScreensaverGlanceFontTitle": "Famiglia di caratteri",
+  "settingScreensaverGlanceFontDescription": "La faccia di tipo in cui la riga è disegnata.",
+  "settingScreensaverGlanceFontWeightTitle": "Peso del carattere",
+  "settingScreensaverGlanceFontWeightDescription": "L'impostazione predefinita è il proprio peso di ogni riga: nomi regolari, valori semibold.",
+  "settingScreensaverGlanceHideNamesTitle": "Nascondi i nomi",
+  "settingScreensaverGlanceHideNamesDescription": "Mostra solo l'icona e il valore, con il valore disegnato più grande.",
+  "settingScreensaverGlanceBwIconsTitle": "Icone monocromatiche",
+  "settingScreensaverGlanceBwIconsDescription": "Tenere ogni icona nel grigio neutro invece del suo colore di stato.",
+  "settingScreensaverGlanceTextOnlyTitle": "Stile di testo galleggiante",
+  "settingScreensaverGlanceTextOnlyDescription": "Mostrare le entità come testo galleggiante invece di chip.",
+  "screensaverOverlayAppearance": "Aspetto"
+}

@@ -1,0 +1,4 @@
+{
+  "@@locale": "it",
+  "androidAccessibilityHelp": "Chiude il pannello delle notifiche e la schermata delle app recenti quando vengono aperti mentre è attiva la modalità kiosk o la modalità di blocco. Kiosk Satellite non legge il contenuto dello schermo."
+}

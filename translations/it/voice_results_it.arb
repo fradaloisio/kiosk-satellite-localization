@@ -1,0 +1,9 @@
+{
+  "@@locale": "it",
+  "voiceFinancialOpen": "Aperto: {value}",
+  "voiceFinancialHigh": "Alto: {value}",
+  "voiceFinancialLow": "basso: {value}",
+  "voiceFinancialHigh24h": "24h di altezza: {value}",
+  "voiceFinancialLow24h": "24h basso: {value}",
+  "voiceFinancialMarketCap": "Capitalizzazione di mercato: {value}"
+}

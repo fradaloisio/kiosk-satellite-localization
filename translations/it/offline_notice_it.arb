@@ -1,0 +1,9 @@
+{
+  "@@locale": "it",
+  "offlineDashboard": "Dashboard non disponibile",
+  "offlineNetwork": "Nessuna connessione di rete",
+  "offlinePageHelp": "La pagina non poteva essere caricata.",
+  "offlineNetworkHelp": "La dashboard tornerà quando la rete lo farà.",
+  "offlineLost": "Collegamento di rete perso",
+  "offlineRestored": "Collegamento di rete ripristinato"
+}

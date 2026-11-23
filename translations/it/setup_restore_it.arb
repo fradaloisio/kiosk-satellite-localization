@@ -1,0 +1,16 @@
+{
+  "@@locale": "it",
+  "setupNotBackup": "Non un file di backup",
+  "setupInvalidBackupHelp": "Questo file non è valido JSON. Esportare una configurazione da Impostazioni su un set-up Kiosk Satellite, o dal suo amministratore remoto.",
+  "setupWrongBackupKind": "Esportare una configurazione dalla scheda Impostazioni di una configurazione Kiosk Satellite.",
+  "setupImportFailedHelp": "Il file non poteva essere applicato.",
+  "setupBackupNoDashboard": "Backup non ha dashboard",
+  "setupBackupNoDashboardHelp": "Le impostazioni sono state applicate, ma questo backup è stato preso prima che il suo dispositivo è stato impostato, quindi non c'è alcun dashboard da mostrare.",
+  "setupImporting": "Importare...",
+  "setupRemoteRestoreHelp": "Importa una configurazione esportata da Kiosk Satellite e salta il resto di questa procedura guidata.",
+  "setupFinishOnDevice": "Finitura sul dispositivo",
+  "setupFinishOnDeviceHelp": "La configurazione è stata importata. Rispondere alle richieste di autorizzazione sullo schermo del tablet - questa pagina continua automaticamente quando la dashboard carica.",
+  "setupBackupObject": "Il backup deve contenere un oggetto JSON.",
+  "setupBackupKind": "Questo non è un file di configurazione Kiosk Satellite.",
+  "setupBackupSettings": "Il backup non contiene impostazioni."
+}

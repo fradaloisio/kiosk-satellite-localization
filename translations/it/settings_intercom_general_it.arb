@@ -1,0 +1,20 @@
+{
+  "@@locale": "it",
+  "settingIntercomEnabledTitle": "Attivare intercom",
+  "settingIntercomEnabledDescription": "Chiama gli altri kiosk su questa rete e chiamali.",
+  "settingIntercomKeyTitle": "Chiave intercomunicante",
+  "settingIntercomKeyDescription": "I kiosk con la stessa chiave possono chiamarsi a vicenda. Fleet Management può sincronizzarlo.",
+  "settingIntercomKeyPlaceholder": "Fatto quando l'interfono è abilitato",
+  "intercomNeedsAdmin": "L'interfono ha bisogno dell'amministratore remoto",
+  "intercomAdminHelp": "I kiosk si trovano e si raggiungono attraverso di esso. Accendere la gestione remota e Trova altri kiosk sotto Dispositivo, quindi tornare indietro.",
+  "intercomChangeKey": "Cambia chiave",
+  "intercomChangeKeyHelp": "Incolla la chiave da un altro kiosk, o ne faccia una nuova.",
+  "intercomChange": "Cambiamento",
+  "intercomKeyWarning": "I kiosk con questa chiave possono chiamarsi l'un l'altro. Una nuova chiave taglia questo kiosk dagli altri fino a quando non lo ottengono troppo.",
+  "intercomRegenerate": "Rigenerare",
+  "intercomKeyChanged": "Chiave cambiata",
+  "intercomNotSet": "Non impostato",
+  "intercomOpen": "Aprire",
+  "settingIntercomTlsTitle": "Crittografia delle comunicazioni",
+  "settingIntercomTlsDescription": "Utilizzare TLS per crittografare le chiamate intercom tra i kiosk. Tutti i kiosk nella chiamata hanno bisogno di questo abilitato."
+}

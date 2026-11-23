@@ -1,0 +1,11 @@
+{
+  "@@locale": "it",
+  "cameraNoCamera": "Nessuna telecamera rilevata",
+  "cameraNoCameraHelp": "Questo dispositivo non segnala nessuna fotocamera utilizzabile.",
+  "cameraCameraPermission": "Permesso della fotocamera mancante",
+  "cameraCameraPermissionHelp": "Senza di esso la fotocamera non può essere utilizzata. La finestra di dialogo di sovvenzione appare sulla schermata del tablet.",
+  "cameraGrantOnDevice": "Concedere sul dispositivo",
+  "cameraCameraBlocked": "Bloccato. Android non chiederà di nuovo, in modo da consentire nelle impostazioni dell'app.",
+  "cameraCameraNeeded": "Senza questo la fotocamera non può essere utilizzata.",
+  "cameraAppSettings": "Impostazioni delle app"
+}

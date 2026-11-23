@@ -1,0 +1,10 @@
+{
+  "@@locale": "it",
+  "settingScreensaverWebsiteUrlTitle": "Sito web URL",
+  "settingScreensaverWebsiteUrlDescription": "Una pagina per mostrare lo schermo intero, deve permettere di essere incorporato.",
+  "settingScreensaverWebsiteZoomTitle": "Livello di zoom",
+  "settingScreensaverWebsiteZoomDescription": "Scale l'intera webview salvaschermo esterno.",
+  "settingScreensaverWebsiteDoubleTapTitle": "Doppio rubinetto per licenziare",
+  "settingScreensaverWebsiteDoubleTapDescription": "I singoli rubinetti interagiscono con il sito invece di licenziare.",
+  "screensaverWebsiteSection": "Sito web salvaschermo"
+}

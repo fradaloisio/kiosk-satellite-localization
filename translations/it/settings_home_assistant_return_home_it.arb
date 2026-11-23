@@ -1,0 +1,12 @@
+{
+  "@@locale": "it",
+  "settingHaReturnHomeEnabledTitle": "Torna a home dashboard vista",
+  "settingHaReturnHomeEnabledDescription": "Torna alla dashboard configurato sopra dopo un periodo di inattività.",
+  "settingHaReturnHomeSecondsTitle": "Ritorno dopo (secondi)",
+  "settingHaReturnHomeSecondsDescription": "Periodo di inattività prima che il kiosk ritorni.",
+  "haReturnHint": "Torna alla home view quando lasciato inattivo",
+  "haReturnDisabled": "Disattivato mentre la rotazione della vista di Dashboard è attiva.",
+  "haReturnNoPath": "La dashboard configurato non ha percorso di visualizzazione a cui tornare.",
+  "haReturnPath": "Ritorna a \"{path}\" dopo il timeout.",
+  "haReturnCompass": "Con la navigazione Compass, ogni vista della dashboard nel layout ritorna alla vista scelta per esso dopo il timeout."
+}

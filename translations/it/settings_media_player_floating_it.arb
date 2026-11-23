@@ -1,0 +1,15 @@
+{
+  "@@locale": "it",
+  "settingSendspinShowPlayerTitle": "Mostra il lettore mobile",
+  "settingSendspinShowPlayerDescription": "Mentre la musica suona, mostra una piccola finestra ora che gioca sulla dashboard con opere d'arte, informazioni di traccia e progresso.",
+  "settingSendspinPlayerSizeTitle": "Dimensione del lettore",
+  "settingSendspinPlayerSizeDescription": "Compatto è una piccola finestra di riproduzione non ostruita. Grande aggiunge precedente, play/pause e pulsanti successivi dimensionati per il tocco, controllando l'intero gruppo di riproduzione.",
+  "settingSendspinPausedHideMinutesTitle": "Nascondi il lettore in pausa dopo",
+  "settingSendspinPausedHideMinutesDescription": "Per quanto tempo un lettore in pausa rimane sullo schermo, si applica sia al lettore mobile che alla vista In riproduzione.",
+  "settingSendspinDismissKeepsPlayingTitle": "Continua a giocare quando è stato respinto",
+  "settingSendspinDismissKeepsPlayingDescription": "Sbattere il lettore mobile lontano lo nasconde senza fermare la musica.",
+  "mediaFloatingPage": "Lettore mobile",
+  "mediaFloatingHint": "La piccola carta sopra la dashboard",
+  "mediaCompact": "Compatto",
+  "mediaLargeControls": "Grande con comandi"
+}

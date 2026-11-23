@@ -1,0 +1,7 @@
+{
+  "@@locale": "it",
+  "mediaGroupLead": "Lettore principale del gruppo",
+  "mediaGroupReadFailed": "Impossibile leggere il gruppo.",
+  "mediaGroupEmpty": "Nessun altro lettore con cui raggrupparsi.",
+  "mediaSpeakerSelection": "Selezione dei diffusori"
+}

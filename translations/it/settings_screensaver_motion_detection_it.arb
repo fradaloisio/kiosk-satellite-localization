@@ -1,0 +1,17 @@
+{
+  "@@locale": "it",
+  "settingScreensaverDismissOnMotionTitle": "Disdetta alla mozione",
+  "settingScreensaverDismissOnMotionDescription": "Guardare la fotocamera mentre il salvaschermo è in alto e svegliare lo schermo quando qualcuno si avvicina. La fotocamera funziona solo durante il salvaschermo.",
+  "settingScreensaverDismissOnMotionScreenOffOnlyTitle": "Solo quando lo schermo è spento",
+  "settingScreensaverDismissOnMotionScreenOffOnlyDescription": "Tenere il salvaschermo visibile quando il movimento viene rilevato mentre lo schermo è acceso. Una volta che lo schermo si spegne, il rilevamento sveglia la dashboard. Tocca ancora scarta il salvaschermo.",
+  "settingScreensaverPostponeOnMotionTitle": "Postpone salvaschermo in movimento",
+  "settingScreensaverPostponeOnMotionDescription": "Disattivare l'attivazione del salvaschermo quando viene rilevato il movimento. ATTENZIONE: mantiene la fotocamera in esecuzione permanente.",
+  "screensaverDetectionMotionPage": "Rilevamento di movimento",
+  "screensaverDetectionMotionHint": "respingere o rinviare il salvaschermo in movimento",
+  "screensaverDetectionMotionTuning": "Il rilevamento del movimento è sintonizzato nelle impostazioni della fotocamera.",
+  "settingMotionUseEntityTitle": "Utilizzare l'entità Home Assistant",
+  "settingMotionUseEntityDescription": "Rileva il movimento con un sensore Home Assistant invece della fotocamera.",
+  "settingMotionEntityTitle": "Ente sensore di movimento",
+  "settingMotionEntityDescription": "Il sensore Home Assistant per l'occupazione, il movimento o la presenza da seguire.",
+  "screensaverDetectionExternalMotionHeading": "Sensore di movimento esterno"
+}

@@ -1,0 +1,9 @@
+{
+  "@@locale": "it",
+  "pluginShizuku13OrLaterIsRequiredTapForSetup": "Shizuku 13 o successivo è necessario. Toccare per le istruzioni di configurazione.",
+  "pluginStartShizukuOnThisDeviceTapForSetupInstructions": "Avviare Shizuku su questo dispositivo. Toccare per le istruzioni di configurazione.",
+  "pluginShizukuGrantsKioskSatelliteShellOrRootAccessInstalled": "Shizuku concede la shell Kiosk Satellite o l'accesso root. I plugin installati funzionano all'interno di KS, quindi basta concedere l'accesso se ti fidi di loro.",
+  "pluginSetUp": "Impostazione",
+  "pluginGrantAccess": "Accesso ai sussidi",
+  "pluginApproveThePermissionRequestOnTheKiosk": "Approva la richiesta di autorizzazione sul kiosk."
+}

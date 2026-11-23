@@ -1,0 +1,17 @@
+{
+  "@@locale": "it",
+  "settingScreensaverDismissOnFaceTitle": "Disdetta in faccia",
+  "settingScreensaverDismissOnFaceDescription": "Svegliare lo schermo quando qualcuno guarda il kiosk, non solo in movimento. La fotocamera funziona solo durante il salvaschermo. ATTENZIONE: Ha bisogno di una faccia accesa; nel buio, programmare il rilevamento del movimento invece.",
+  "settingScreensaverDismissOnFaceScreenOffOnlyTitle": "Solo quando lo schermo è spento",
+  "settingScreensaverDismissOnFaceScreenOffOnlyDescription": "Tenere il salvaschermo visibile quando viene rilevata una faccia mentre lo schermo è acceso. Una volta che lo schermo si spegne, il rilevamento sveglia la dashboard. Toccare ancora respinge il salvaschermo.",
+  "settingScreensaverPostponeOnFaceTitle": "Postpone salvaschermo sul viso",
+  "settingScreensaverPostponeOnFaceDescription": "Ritardo attivando il salvaschermo mentre qualcuno sta guardando il kiosk. ATTENZIONE: mantiene la fotocamera in esecuzione permanente, con il rilevamento del viso e il suo costo CPU in cima.",
+  "settingFaceSensitivityTitle": "Sensibilità del viso",
+  "settingFaceSensitivityDescription": "1 ha bisogno di una faccia vicino allo schermo; 100 reagisce a qualsiasi faccia che la fotocamera può fare.",
+  "screensaverDetectionFacePage": "Detezione del volto",
+  "screensaverDetectionFaceHint": "respingere il salvaschermo quando qualcuno lo guarda",
+  "screensaverDetectionMotionPrecedence": "La disattivazione del salvaschermo al movimento ha la precedenza. Finché è attiva, il rilevamento dei volti rimane inattivo.",
+  "screensaverDetectionFaceTuning": "La velocità della cornice, la scelta della fotocamera e il ritardo di avvio sono sintonizzati nelle impostazioni della fotocamera.",
+  "screensaverDetectionAndroidUnsupported": "Non disponibile su questa versione Android.",
+  "screensaverDetectionX86Unsupported": "Non disponibile su dispositivi x86."
+}

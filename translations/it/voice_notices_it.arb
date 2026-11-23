@@ -1,0 +1,21 @@
+{
+  "@@locale": "it",
+  "voiceNoticeError": "Errore di Voice Satellite",
+  "voiceNoticeWarning": "Avvertenza Voice Satellite",
+  "voiceNoticeNotice": "Avviso Voice Satellite",
+  "voiceNoticeTts": "Testo a segno",
+  "voiceNoticeAssistPipeline": "Condotta assistita",
+  "voiceNoticePipeline": "Pipeline «{name}»",
+  "voiceNoticeMicUnavailable": "Il microfono non è disponibile.",
+  "voiceNoticeNotConnected": "Home Assistant non è collegato a questo kiosk.",
+  "voiceNoticeConnectionLost": "Collegamento perso a Home Assistant. Ricollegamento automatico.",
+  "voiceNoticePlayback": "L'audio non poteva essere giocato sul dispositivo.",
+  "voiceNoticeWatchdog": "Nessuna risposta da Home Assistant dopo aver finito di parlare.",
+  "voiceNoticeRefused": "Home Assistant non poteva avviare l'assistente.",
+  "voiceNoticeUnexpected": "Si è verificato un errore di pipeline inaspettato.",
+  "voiceNoticeMicBlocked": "Permetterlo per Kiosk Satellite nelle impostazioni Android.",
+  "voiceNoticeMicDeclined": "L'accesso al microfono è stato rifiutato, quindi la parola di attivazione non può essere ascoltata.",
+  "voiceNoticeMicLost": "Il microfono ha smesso di funzionare.",
+  "voiceNoticeModels": "I modelli della parola di attivazione non potevano essere caricati.",
+  "voiceNoticeCrashed": "Il rilevatore di parole di veglia continuava a schiantarsi su questo dispositivo, quindi è stato interrotto."
+}

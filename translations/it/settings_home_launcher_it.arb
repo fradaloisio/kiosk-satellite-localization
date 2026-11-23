@@ -1,0 +1,7 @@
+{
+  "@@locale": "it",
+  "settingHomeLauncherEnabledTitle": "Atto come la schermata iniziale",
+  "settingHomeLauncherEnabledDescription": "Registrare Kiosk Satellite come schermo di casa del dispositivo: il kiosk inizia al boot e ogni home press ritorna ad esso. Si spegne e ripristina il launcher precedente se l'applicazione non riesce a iniziare più volte.",
+  "settingHomeKeepPinningTitle": "Tenere pinning schermo",
+  "settingHomeKeepPinningDescription": "Pin lo schermo anche mentre Kiosk Satellite è la schermata iniziale. Blocca recenti e indietro in modo nativo, ma riporta la finestra di dialogo di conferma pinning su dispositivi senza proprietà del dispositivo."
+}

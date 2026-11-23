@@ -1,0 +1,8 @@
+{
+  "@@locale": "it",
+  "cameraStreamsImportHa": "Importare telecamere da Home Assistant",
+  "cameraStreamsImportHaHelp": "Aggiungere ogni fotocamera della Home Assistant collegata, giocando sopra WebRTC, HLS o MJPEG. Importando di nuovo fonde nuove telecamere.",
+  "cameraStreamsImportFailed": "Importazione fallita",
+  "cameraStreamsImportComplete": "Importazione completa",
+  "cameraStreamsImportCounts": "{added} ha aggiunto, {missing} mancante."
+}

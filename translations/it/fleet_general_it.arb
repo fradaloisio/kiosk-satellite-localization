@@ -1,0 +1,15 @@
+{
+  "@@locale": "it",
+  "fleetFleetManagementNeedsTheRemoteAdmin": "Fleet Management ha bisogno dell'amministratore remoto",
+  "fleetKiosksFindEachOtherThroughItTurnOnRemote": "I kiosk si trovano attraverso di esso. Accendere la gestione remota e trovare altri kiosk sotto dispositivo, quindi tornare indietro.",
+  "fleetLeadThisFleet": "Guidare questa flotta",
+  "fleetSyncThisKioskSSettingsToItsFollowersRequires": "Sincronizza le impostazioni di questo kiosk ai suoi seguaci. Richiede tutti i kiosk per eseguire la stessa versione.",
+  "fleetAKioskThatFollowsALeaderCannotLead": "Un kiosk che segue un leader non può guidare.",
+  "fleetFollowers": "Seguace",
+  "fleetProfiles": "Profili",
+  "fleetLeader": "Leader Leader",
+  "fleetLearnWhichSettingsSyncAndWhichDoNotIn": "Imparare quali impostazioni sincronizzare e che non in",
+  "fleetFleetManagementDocumentation": "Documentazione di gestione delle pulci",
+  "fleetMore": "Altro",
+  "fleetSearchFollowers": "I kiosk che questo porta, il loro stato e un modo per aggiungerne uno."
+}

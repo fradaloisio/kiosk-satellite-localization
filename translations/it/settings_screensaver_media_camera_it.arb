@@ -1,0 +1,20 @@
+{
+  "@@locale": "it",
+  "settingScreensaverCameraViewsTitle": "Vista panoramica",
+  "settingScreensaverCameraViewsDescription": "La fotocamera visualizza il salvaschermo mostra, in questo ordine.",
+  "settingScreensaverCameraViewSecondsTitle": "Secondi per vista della fotocamera",
+  "settingScreensaverCameraViewSecondsDescription": "Per quanto tempo ogni vista rimane sullo schermo prima di quella successiva, con una sola vista non ruota nulla.",
+  "settingScreensaverCameraMuteTitle": "Mute tutte le viste",
+  "settingScreensaverCameraMuteDescription": "Mantiene ogni vista silenziosa, anche una singola fotocamera.",
+  "screensaverMediaCameraPage": "Salvaschermo con flussi delle telecamere",
+  "screensaverMediaCameraHint": "Visualizza per mostrare, secondi per vista, suono",
+  "screensaverMediaNoCameras": "Nessuna vista della fotocamera ha ancora le telecamere.",
+  "screensaverMediaNoCamerasRemote": "Nessuna vista della fotocamera ha ancora telecamere",
+  "screensaverMediaAddCameras": "Aggiungine uno sotto Streaming della fotocamera.",
+  "screensaverMediaNoViews": "Non ancora, scegli la vista che passa attraverso il salvaschermo.",
+  "screensaverMediaRotation": "Nella rotazione (drag to reorder)",
+  "screensaverMediaAvailable": "Disponibile",
+  "screensaverMediaOneCamera": "fotocamera {count}",
+  "screensaverMediaCameras": "Fotocamere {count}",
+  "screensaverMediaPosition": "Posizione {index} · {cameras}"
+}

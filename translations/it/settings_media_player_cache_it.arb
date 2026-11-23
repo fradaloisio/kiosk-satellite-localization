@@ -1,0 +1,9 @@
+{
+  "@@locale": "it",
+  "mediaCacheTitle": "Memoria dell'album",
+  "mediaCacheReadFailed": "Non poteva leggere la dimensione della cache.",
+  "mediaCacheClearFailed": "Non riuscivo a sgomberare la cache.",
+  "mediaCacheChecking": "Controllare la dimensione della cache...",
+  "mediaCacheClearing": "Sgombrare...",
+  "mediaCacheUsage": "{used} usato di {limit}. Le miniature di queue vengono memorizzate automaticamente."
+}

@@ -1,0 +1,13 @@
+{
+  "@@locale": "it",
+  "entityPickerNoArea": "Nessuna zona",
+  "entityPickerAll": "Tutti",
+  "entityPickerChoose": "Scegli un'entità",
+  "entityPickerNoMatch": "Niente corrisponde",
+  "entityPickerOfflineHelp": "Le entità caricano una volta che la connessione è tornata.",
+  "entityPickerMissing": "Questa entità è passata da Home Assistant. Scegli un'altra.",
+  "entityPickerOrderHint": "Trascinare o utilizzare le frecce per modificare l'ordine.",
+  "entityPickerFull": "Rimuovere uno per aggiungere un altro.",
+  "entityPickerAdd": "Aggiungi entità",
+  "entityPickerShowing": "Mostrare {count} di {max}"
+}

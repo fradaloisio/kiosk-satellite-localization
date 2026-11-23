@@ -1,0 +1,12 @@
+{
+  "@@locale": "it",
+  "settingMediaVolumeTitle": "Volume dei media",
+  "settingMediaVolumeDescription": "Musica e video giocano a questa parte del volume master. Il volume del lettore Sendspin in Music Assistant muove questo cursore.",
+  "settingAssistantVolumeTitle": "Volume aggiunto",
+  "settingAssistantVolumeDescription": "Le risposte vocali e i chimes giocano a questa parte del volume master, indipendente dal volume dei media.",
+  "settingIntercomVolumeTitle": "Volume di interfono",
+  "settingIntercomVolumeDescription": "La voce e gli annunci dell'altro kiosk giocano a questa parte del volume master.",
+  "screenAudioVolume": "Volume audio",
+  "screenAudioMasterVolume": "Volume master",
+  "screenAudioMasterHelp": "Il volume del dispositivo. Media, interfono e volumi dell'assistente scalano sotto di esso."
+}

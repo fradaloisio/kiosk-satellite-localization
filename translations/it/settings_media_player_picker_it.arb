@@ -1,0 +1,18 @@
+{
+  "@@locale": "it",
+  "mediaPickPlayer": "Scegli un lettore",
+  "mediaMaPlayer": "Lettore Music Assistant",
+  "mediaHaPlayer": "lettore multimediale Home Assistant",
+  "mediaSonosRoom": "Stanza di Sonos",
+  "mediaSearchPlayers": "Lettori di ricerca",
+  "mediaOffline": "Offline",
+  "mediaOfflineName": "{name} (offline)",
+  "mediaSetUpMa": "Impostare Music Assistant per elencare i suoi lettori.",
+  "mediaSetUpHa": "Collegare Home Assistant per elencare i suoi lettori multimediali.",
+  "mediaSetUpSonos": "Non sono ancora noti diffusori Sonos. Trovare o aggiungere uno sulla pagina Sonos.",
+  "mediaHaFailed": "Home Assistant non ha risposto: {error}",
+  "mediaSaveFailed": "Non poteva salvare il lettore.",
+  "mediaSelectFailed": "Non è possibile selezionare il lettore",
+  "mediaNotificationAccessRemote": "Senza questo Android non elenca sessioni di media, quindi In riproduzione non può seguire le applicazioni che giocano su questo dispositivo.",
+  "mediaLocalMediaSession": "Sessione dei media locali"
+}

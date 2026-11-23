@@ -1,0 +1,17 @@
+{
+  "@@locale": "it",
+  "settingHaThemeTitle": "Tema",
+  "settingHaThemeDescription": "Tema chiaro o scuro per la dashboard di Home Assistant. Puoi impostarlo anche tramite l’entità Tema di Home Assistant. L’opzione Automatico usa le impostazioni qui sotto.",
+  "settingThemeMatchAppTitle": "Sincronizza i temi Home Assistant con Kiosk Satellite",
+  "settingThemeMatchAppDescription": "Abbina automaticamente il tuo tema Home Assistant alla tua interfaccia Kiosk Satellite.",
+  "settingThemeAutoTitle": "Tema di corrispondenza al momento della giornata",
+  "settingThemeAutoDescription": "Passare Home Assistant tra luce e buio su un programma. Mantiene tutto il tema selezionato, sfogliando solo la sua variante light/dark.",
+  "settingThemeDarkAtTitle": "Tema scuro a",
+  "settingThemeDarkAtDescription": "Ora locale per passare al tema scuro.",
+  "settingThemeLightAtTitle": "Tema della luce a",
+  "settingThemeLightAtDescription": "Ora locale per tornare al tema della luce.",
+  "settingThemeAutoAppTitle": "Anche cambiare il tema dell'app",
+  "settingThemeAutoAppDescription": "Il tema di Flip Kiosk Satellite (menu, impostazioni) insieme al cambio Home Assistant programmato.",
+  "haThemeHint": "Abbina l'applicazione, o commuta il buio e la luce su un programma",
+  "haThemeAuto": "Automobilistica"
+}

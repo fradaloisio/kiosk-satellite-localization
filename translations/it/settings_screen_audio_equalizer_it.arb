@@ -1,0 +1,19 @@
+{
+  "@@locale": "it",
+  "settingEqualizerEnabledTitle": "Abilitare equalizzatore",
+  "settingEqualizerEnabledDescription": "Forma il suono della musica, l'assistente, i chimes e l'interfono. I suoni video e dashboard non sono equalizzati.",
+  "settingEqualizerBand1Title": "100 Hz",
+  "settingEqualizerBand1Description": "Bass. I piccoli diffusori distorcono presto con una spinta qui.",
+  "settingEqualizerBand2Title": "300 Hz",
+  "settingEqualizerBand2Description": "Un taglio tira fuori un suono pugile o boomy.",
+  "settingEqualizerBand3Title": "1 kHz",
+  "settingEqualizerBand3Description": "Mids, dove la maggior parte di una voce siede.",
+  "settingEqualizerBand4Title": "3 kHz",
+  "settingEqualizerBand4Description": "Una spinta rende più chiaro il discorso.",
+  "settingEqualizerBand5Title": "10 kHz",
+  "settingEqualizerBand5Description": "Frequenze alte.",
+  "settingEqualizerPreampTitle": "Preamplificatore automatico",
+  "settingEqualizerPreampDescription": "Abbassa il livello dal più grande impulso in modo che l'altoparlante non distorce e la cancellazione eco continua a funzionare.",
+  "screenAudioEqualizer": "Equalizzatore",
+  "screenAudioEqualizerHint": "Bassi, medi, alti, preamplificazione"
+}

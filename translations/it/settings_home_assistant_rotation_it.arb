@@ -1,0 +1,18 @@
+{
+  "@@locale": "it",
+  "settingHaRotationEnabledTitle": "Abilitare la rotazione della vista della dashboard",
+  "settingHaRotationEnabledDescription": "Cicli attraverso le viste della dashboard selezionate in un loop infinito, mostrando ciascuno per il numero scelto di secondi.",
+  "settingHaRotationSecondsTitle": "Secondi per vista",
+  "settingHaRotationSecondsDescription": "Per quanto tempo ogni vista rimane sullo schermo.",
+  "settingHaRotationPauseSecondsTitle": "rotazione della pausa sull'interazione (secondi)",
+  "settingHaRotationPauseSecondsDescription": "Toccando lo schermo si ferma la rotazione per questo lungo, e ogni tocco riavvia il conto alla rovescia. Le interazioni vocali si fermano fino alla fine. 0 continua a ruotare attraverso i tocchi.",
+  "settingHaRotationCrossfadeTitle": "Fade tra punti di vista",
+  "settingHaRotationCrossfadeDescription": "Passa alla vista successiva con una dissolvenza sullo sfondo. Il passaggio a un’altra dashboard o a una pagina esterna resta immediato.",
+  "settingHaRotationFadeSecondsTitle": "Durata della dissolvenza (secondi)",
+  "settingHaRotationFadeSecondsDescription": "Caricamento della vista successiva può aggiungere tempo, soprattutto nella sua prima visita.",
+  "haRotation": "Rotazione vista dashboard",
+  "haRotationHint": "Ciclo attraverso la vista, tempo di dimora, dissolvenza",
+  "haExternalPages": "Pagine esterne",
+  "haFadeError": "Scegliere una durata della dissolvenza da 0.2 a 5 secondi.",
+  "haPauseRemoteHelp": "Le interazioni vocali si fermano sempre fino alla fine. 0 continua a ruotare."
+}

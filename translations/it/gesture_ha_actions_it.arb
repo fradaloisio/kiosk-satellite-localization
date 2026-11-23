@@ -1,0 +1,23 @@
+{
+  "@@locale": "it",
+  "gestureValid": "Sembra buono.",
+  "gestureValidationFailed": "Non poteva convalidare.",
+  "gestureDomainMissing": "Dominio {value} non trovato.",
+  "gestureServiceMissing": "Servizio {value} non trovato.",
+  "gestureEntityMissing": "Entity {value} non trovato.",
+  "gestureEntityRequired": "Inserisci un'entità {domain}.*.",
+  "gestureScriptEntity": "Script entità",
+  "gestureAutomationEntity": "Ente di automazione",
+  "gestureEntityOptional": "Entità (facoltativo)",
+  "gestureServiceData": "Dati di servizio (opzionale)",
+  "gestureServiceTitle": "Chiama un servizio Home Assistant",
+  "gestureServiceJson": "I dati di servizio devono essere oggetto JSON.",
+  "gestureEventType": "Tipo di evento",
+  "gestureEventData": "Dati evento (facoltativo)",
+  "gestureEventTitle": "Fuoco di un evento Home Assistant",
+  "gestureEventRequired": "Il tipo di evento è richiesto.",
+  "gestureEventJson": "I dati degli eventi devono essere oggetto JSON.",
+  "gestureServiceSearch": "Servizi di ricerca",
+  "gestureServiceChoose": "Scegli un servizio",
+  "gestureServiceNoEntity": "Non utilizzato da questo servizio"
+}

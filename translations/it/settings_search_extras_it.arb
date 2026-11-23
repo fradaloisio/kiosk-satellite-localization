@@ -1,0 +1,21 @@
+{
+  "@@locale": "it",
+  "searchInstallApk": "Caricare un Kiosk Satellite APK attraverso l'amministratore remoto e installarlo.",
+  "searchPermissionsHelp": "Ogni Android concede l'applicazione può utilizzare, con il suo stato: microfono, fotocamera, notifiche, batteria non limitata, display su altre applicazioni, modificare le impostazioni di sistema, sistema UI guardia, dispositivo admin, tutti i file di accesso, accesso di utilizzo e posizione.",
+  "searchServiceStatus": "Stato di servizio",
+  "searchServiceHelp": "Se il servizio Kiosk Satellite è in esecuzione e ciò che sta mantenendo in vita.",
+  "searchServicePermissions": "Il Servizio Kiosk Satellite garantisce le esigenze.",
+  "searchIntercomKiosks": "Kiosk noti e se ciascuno può prendere una chiamata.",
+  "searchHaValidate": "Controlla lo URL e token contro il tuo Home Assistant.",
+  "searchHaProxy": "Servire un semplice-http Home Assistant attraverso un proxy sicuro all'interno dell'app.",
+  "searchHaDashboard": "Scegli la dashboard e visualizza gli spettacoli di kiosk.",
+  "searchKioskPermissions": "Le protezioni per il kiosk e il blocco si appoggiano.",
+  "searchHomeStatus": "Stato della schermata iniziale",
+  "searchHomeHelp": "Se Kiosk Satellite è la schermata iniziale del dispositivo, e dove terminare l'impostazione come predefinito.",
+  "searchMasterVolume": "Il volume del dispositivo i media e l'assistente faders scala sotto.",
+  "searchSmallClock": "Un widget orologio in un angolo del salvaschermo.",
+  "searchBattery": "Un widget della batteria in un angolo del salvaschermo: la carica di questo dispositivo.",
+  "searchWeatherForecast": "Un widget di previsione in un angolo del salvaschermo: i prossimi giorni, con i loro alti e bassi.",
+  "searchPersonPermission": "L'accesso al Log garantisce le esigenze del sensore di persona del dispositivo.",
+  "searchSonosSpeakers": "I diffusori Sonos lo sanno, una ricerca della rete e un campo di indirizzi."
+}

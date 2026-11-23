@@ -1,0 +1,8 @@
+{
+  "@@locale": "it",
+  "settingScreensaverUrlImageDescription": "Un indirizzo di immagine il dispositivo si blocca nuovamente per ogni diapositiva.",
+  "settingScreensaverUrlIntervalDescription": "Quanto tempo ogni foto mostra prima della prossima fetch.",
+  "screensaverMediaUrlPage": "Salvaschermo con immagine da URL",
+  "screensaverMediaUrlPageHint": "URL, tempismo, transizione, metadati",
+  "screensaverMediaUrlMetadata": "Immagine URL metadati"
+}

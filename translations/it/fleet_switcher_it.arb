@@ -1,0 +1,6 @@
+{
+  "@@locale": "it",
+  "fleetSwitchKiosk": "Interruttore kiosk",
+  "fleetKiosksOnThisNetworkWithTheRemoteAdminOn": "Kiosk scoperto e membri della flotta salvata. Scegliendo uno apre il suo amministratore remoto qui, in questa stessa pagina.",
+  "fleetNoOtherKioskFoundOnThisNetworkAKioskDetail": "Nessun altro kiosk trovato. I kiosk appaiono attraverso la scoperta della rete o l'adesione della flotta salvata."
+}

@@ -1,0 +1,16 @@
+{
+  "@@locale": "it",
+  "settingDisableCacheTitle": "Disattiva la cache",
+  "settingDisableCacheDescription": "Sempre prendere dalla rete e rilasciare dati di pagina memorizzati in cache su carico, quindi una dashboard arrotolato torna sempre fresco. Slow; trattalo come un aiuto di sviluppo.",
+  "settingAllowMixedContentTitle": "Consentire contenuti misti",
+  "settingAllowMixedContentDescription": "Consenti alle pagine HTTPS di caricare risorse HTTP non protette. Utile quando su una dashboard https:// di Home Assistant sono presenti contenuti http:// provenienti da altre risorse.",
+  "settingIgnoreSslErrorsTitle": "errori Ignore SSL",
+  "settingIgnoreSslErrorsDescription": "Accettare certificati non attendibili o auto-firmati. Utilizzare solo sulla propria rete, in quanto disabilita la verifica del certificato.",
+  "settingBrowserUserAgentTitle": "Agente utente personalizzato",
+  "settingBrowserUserAgentDescription": "Inviato a siti web al posto dell'agente utente predefinito. Lascia vuoto per utilizzare il default.",
+  "webGeolocationSection": "Geolocalizzazione HTML5",
+  "settingWebGeolocationTitle": "Abilitare l'accesso alla geolocalizzazione",
+  "settingWebGeolocationDescription": "Consente alle pagine di leggere la posizione del dispositivo, come un radar meteo o una mappa. Solo le pagine caricate su HTTPS possono chiederlo.",
+  "webGeolocationPermissionHeld": "Le pagine possono leggere la posizione del dispositivo.",
+  "webGeolocationPermissionMissing": "Senza queste pagine non è possibile leggere la posizione del dispositivo."
+}

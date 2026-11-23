@@ -1,0 +1,10 @@
+{
+  "@@locale": "it",
+  "settingAudioMicDeviceTitle": "Microfono",
+  "settingAudioMicDeviceDescription": "Il microfono sveglia il rilevamento delle parole e la voce diventa cattura da.",
+  "settingAudioSpeakerDeviceTitle": "Relatore:",
+  "settingAudioSpeakerDeviceDescription": "Uscita per suoni Voice Satellite; la riproduzione dei media segue il percorso del sistema.",
+  "screenAudioDevices": "Dispositivi audio",
+  "screenAudioSelectedDevice": "Dispositivo selezionato",
+  "screenAudioDisconnected": "{name} (non collegato)"
+}
