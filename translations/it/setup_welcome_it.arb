@@ -17,7 +17,7 @@
   "setupRemoteAddress": "Puoi proseguire la configurazione da un browser all’indirizzo {address}, indipendentemente dallo stato dell’interruttore qui sopra.",
   "remoteWelcomeTitle": "Ti diamo il benvenuto in Kiosk Satellite",
   "remoteWelcomePassword": "Il tablet è in attesa di configurazione. Per prima cosa, proteggi l’amministrazione remota con una password.",
-  "remoteWelcomeReady": "Il tablet è in attesa di configurazione. La password di amministrazione remota è già impostata. Per cambiarla, inseriscine una nuova.",
-  "remoteInitialPassword": "Password di amministrazione (minimo 4 caratteri)",
-  "remoteNewPassword": "Nuova password di amministrazione (lascia il campo vuoto per mantenere quella attuale)"
+  "remoteWelcomeReady": "Il tablet è in attesa di configurazione. La password di amministrazione remota è già impostata. Inseriscine una nuova per cambiarla oppure lascia il campo vuoto.",
+  "remoteInitialPassword": "Password admin (min. 4 caratteri)",
+  "remoteNewPassword": "Nuova password admin (facoltativa)"
 }
