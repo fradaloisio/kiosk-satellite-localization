@@ -5,7 +5,7 @@
   "settingMicSoftwareEchoCancellationTitle": "Cancellazione eco",
   "settingMicSoftwareEchoCancellationDescription": "Rimuove i suoni del kiosk dal microfono in modo che la parola di attivazione e l'assistente non li ascoltino. Lascialo a meno che un microfono che cancella il suo eco suona peggio con esso.",
   "settingMicEchoCancellationMethodTitle": "Echo metodo di cancellazione",
-  "settingMicEchoCancellationMethodDescription": "Test automatici GTCRN mentre il kiosk suona suoni e passa a AEC3 se lascia troppo eco.",
+  "settingMicEchoCancellationMethodDescription": "Automatico prova GTCRN mentre il kiosk riproduce suoni e passa ad AEC3 se resta troppo eco. Seleziona di nuovo Automatico per ripetere la prova.",
   "settingMicNoiseSuppressionTitle": "Soppressione del rumore",
   "settingMicNoiseSuppressionDescription": "Prende il suo fuori dal microfono, cambia ciò che la parola di attivazione sente, quindi accendelo per un microfono che si istiga.",
   "settingMicChannelTitle": "Canale microfonico",

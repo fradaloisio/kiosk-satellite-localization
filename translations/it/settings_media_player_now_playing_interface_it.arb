@@ -20,7 +20,7 @@
   "settingSendspinFullscreenMotionTitle": "respingere \"In riproduzione\" in movimento",
   "settingSendspinFullscreenMotionDescription": "Lasciate che il movimento dismissi In riproduzione come uno salvaschermo regolare. Off, solo tocco lo licenzia, quindi un walk-past non interrompe il display musicale. Ignorato mentre In riproduzione è mostrato accanto a uno salvaschermo.",
   "settingSendspinFullscreenReturnTitle": "Dopo l'abbandono",
-  "settingSendspinFullscreenReturnDescription": "La vista della dashboard per mostrare dopo In riproduzione è respinta.",
+  "settingSendspinFullscreenReturnDescription": "Scegli la vista della dashboard da mostrare quando chiudi In riproduzione. L’opzione Predefinito usa l’impostazione di ritorno alla vista iniziale.",
   "mediaReturnLastView": "Ultima vista",
   "mediaReturnChosenView": "Vista selezionata",
   "settingSendspinFullscreenReturnViewTitle": "Vista panoramica",

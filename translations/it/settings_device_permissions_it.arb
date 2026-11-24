@@ -1,8 +1,8 @@
 {
   "@@locale": "it",
   "deviceRequiredPermissions": "Permessi di sistema richiesti",
-  "devicePermissionIntro": "Alcuni marchi aggiungono la propria batteria o l'autostart manager in cima, che Android non può segnalare.",
-  "devicePermissionIntroRemote": "Alcuni marchi aggiungono la propria batteria o l'autostart manager in cima, che Android non può segnalare.",
+  "devicePermissionIntro": "Le autorizzazioni si concedono su questo dispositivo. Ogni pulsante apre qui una finestra o una schermata delle impostazioni Android. Alcuni produttori aggiungono strumenti per gestire la batteria o l’avvio automatico che Android non può rilevare.",
+  "devicePermissionIntroRemote": "Le autorizzazioni si concedono sul dispositivo. Ogni pulsante apre su quel dispositivo una finestra o una schermata delle impostazioni Android. Alcuni produttori aggiungono strumenti per gestire la batteria o l’avvio automatico che Android non può rilevare.",
   "deviceMicrophone": "Microfono",
   "deviceMicrophoneHeld": "Consente l'uso del microfono per il rilevamento della parola di attivazione, il discorso al testo e le chiamate intercom.",
   "deviceBattery": "Batteria senza restrizioni",

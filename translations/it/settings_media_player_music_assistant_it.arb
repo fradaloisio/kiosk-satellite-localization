@@ -1,7 +1,7 @@
 {
   "@@locale": "it",
   "settingSendspinMaUrlTitle": "Indirizzo del server",
-  "settingSendspinMaUrlDescription": "L'indirizzo del server Music Assistant, come la sua interfaccia web lo mostra.",
+  "settingSendspinMaUrlDescription": "Indirizzo del server Music Assistant, come appare nell’interfaccia web. In genere usa HTTPS e la porta 8095.",
   "settingSendspinMaTokenTitle": "Token di Auth",
   "settingSendspinMaTokenDescription": "Un token di lunga durata da Music Assistant (Impostazioni, poi Utenti). L'accesso al testo è sufficiente; la scorciatoia del menu kiosk apre l'interfaccia web a cui appartiene il token.",
   "settingSendspinMaOpenFullscreenTitle": "Aprire direttamente a In riproduzione",

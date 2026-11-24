@@ -15,7 +15,7 @@
   "voiceCheckAdminBad": "Il token è un utente regolare. Voice Satellite funziona, l'uso degli strumenti e i risultati non verranno visualizzati.",
   "voiceCheckAdminUnknown": "Non è possibile controllare il token. L'uso degli strumenti e i risultati hanno bisogno di un amministratore.",
   "voiceCheckMicOk": "Ammessi.",
-  "voiceCheckMicBad": "Non e' permesso.",
+  "voiceCheckMicBad": "Accesso non consentito. Concedi l’autorizzazione nella sezione delle autorizzazioni di sistema richieste.",
   "voiceTurnOnEsphome": "Accendere ESPHome",
   "voiceMigrationPlan": "Impostazioni per portare avanti",
   "voiceGroupVoice": "Voce",

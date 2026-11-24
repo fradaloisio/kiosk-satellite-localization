@@ -9,7 +9,7 @@
   "settingSendspinEsphomeEntitiesTitle": "Esporre entità ESPHome",
   "settingSendspinEsphomeEntitiesDescription": "Aggiunge in Home Assistant i pulsanti Riproduci, Pausa, Successivo e Precedente per il lettore selezionato, oltre ai sensori di stato, titolo, artista e sorgente.",
   "settingSendspinVolumeKeysTitle": "Pulsanti di volume controllano il lettore",
-  "settingSendspinVolumeKeysGroupDescription": "Mentre questo dispositivo gioca in un gruppo cambia il volume del gruppo, mentre la vista In riproduzione è sullo schermo o quando il lettore sta giocando.",
+  "settingSendspinVolumeKeysGroupDescription": "I pulsanti del volume di questo dispositivo regolano il volume del lettore selezionato. Quando il dispositivo riproduce in un gruppo, regolano il volume del gruppo. Si applica solo quando la vista In riproduzione è sullo schermo o quando il lettore sta riproducendo.",
   "settingSendspinVolumeKeyStepTitle": "Passo del pulsante del volume",
   "settingSendspinVolumeKeyStepDescription": "Fino a che punto una pressione di un pulsante di volume sposta il lettore.",
   "mediaIntro": "Il lettore mobile e la vista In riproduzione compaiono quando il lettore selezionato riproduce un brano o ha caricato una coda.",

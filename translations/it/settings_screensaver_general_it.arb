@@ -25,7 +25,7 @@
   "settingScreensaverScreenOffMinutesTitle": "Spegni lo schermo dopo",
   "settingScreensaverScreenOffMinutesDescription": "Potere giù il pannello di visualizzazione una volta che il salvaschermo è eseguito per la durata impostata. Impostare a 0 per mantenere lo schermo indefinitamente.",
   "settingScreensaverScreenOffWakeToScreensaverTitle": "Sveglia a salvaschermo",
-  "settingScreensaverScreenOffWakeToScreensaverDescriptionSources": "Scegliere ciò che riporta il salvaschermo al posto della dashboard dopo che lo schermo si è spento.",
+  "settingScreensaverScreenOffWakeToScreensaverDescriptionSources": "Scegli cosa riattiva il salvaschermo al posto della dashboard dopo lo spegnimento dello schermo. Riparte il conto alla rovescia per lo spegnimento dello schermo.",
   "screensaverWakeSourcesAll": "Tutti",
   "screensaverWakeSourceMotion": "Motivazione",
   "screensaverWakeSourceFace": "Volto",

@@ -13,7 +13,7 @@
   "esphomeAppearance": "Aspetto",
   "esphomeSound": "Suono",
   "esphomeNotificationTest": "Notifica di prova",
-  "esphomeNotificationHelp": "Le notifiche vengono inviate da Home Assistant con l'azione {action}.",
+  "esphomeNotificationHelp": "Le notifiche vengono inviate da Home Assistant con l’azione {action}. Il pulsante Prova mostra una notifica sulla dashboard.",
   "esphomeNotificationBody": "Ecco come appare e che suono ha una notifica di Home Assistant.",
   "esphomeNotificationSearch": "L'azione Home Assistant che invia notifiche e un pulsante per mostrarne uno."
 }

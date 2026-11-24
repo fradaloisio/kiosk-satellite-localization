@@ -6,7 +6,7 @@
   "pluginErrorSaveState": "Non salvare lo stato del plugin",
   "pluginErrorPackageHash": "pacchetto non valido installato hash",
   "pluginErrorChecksum": "Pacchetto SHA-256 non corrisponde",
-  "pluginErrorDifferentRepository": "Questo plugin ID appartiene ad un altro repository.",
+  "pluginErrorDifferentRepository": "L’ID di questo plugin appartiene a un altro repository. Disinstalla il plugin prima di cambiare sorgente.",
   "pluginErrorRestartReplace": "Questo plugin non ha smesso di pulire. Riavviare Kiosk Satellite prima di sostituirlo.",
   "pluginErrorAlreadyInstalled": "Questo pacchetto è già installato",
   "pluginErrorLoadedIntegrity": "Il pacchetto precedentemente caricato ha fallito il controllo dell'integrità. Riavviare Kiosk Satellite prima di reinstallarlo.",

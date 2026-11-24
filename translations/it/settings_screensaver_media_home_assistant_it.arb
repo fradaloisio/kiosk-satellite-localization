@@ -10,7 +10,7 @@
   "settingScreensaverMediaTransitionTitle": "Transizione",
   "settingScreensaverMediaTransitionDescription": "Come un elemento passa all'altro.",
   "settingScreensaverMediaFillTitle": "Riempire lo schermo",
-  "settingScreensaverMediaFillDescription": "Ingrandisce sempre ogni foto, tagliando quello che non si adatta.",
+  "settingScreensaverMediaFillDescription": "Disattivato mostra la foto intera con eventuali bande nere. Smart ingrandisce le foto con proporzioni simili a quelle dello schermo e mostra le altre su uno sfondo sfocato. Sempre ingrandisce ogni foto e ritaglia ciò che esce dallo schermo.",
   "settingScreensaverMediaEdgeTapsTitle": "Toccare i bordi per cambiare le diapositive",
   "settingScreensaverMediaEdgeTapsDescription": "Un rubinetto a sinistra o a destra del quinto schermo mostra la precedente o successiva diapositiva invece di licenziare.",
   "settingScreensaverMediaMetadataTitle": "Mostra i metadati",

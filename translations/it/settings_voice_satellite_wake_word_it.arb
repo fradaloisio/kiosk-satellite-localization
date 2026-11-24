@@ -26,7 +26,7 @@
   "voiceWakeWordPreferFp32Title": "Preferisci i modelli fp32 vsWakeWord",
   "voiceWakeWordPreferFp32Description": "Utilizza i modelli fp32 invece di versioni int8 più piccole. Aggiunge 10-30% più uso CPU durante l'ascolto di evitare circa 2%.",
   "voiceWakeWordResumeTimeoutSecondsTitle": "Riprendi il timeout (secondi)",
-  "voiceWakeWordResumeTimeoutSecondsDescription": "Self-heal: riprendere l'ascolto se la pagina non chiama mai impostaWakeWordActive(true) dopo un handoff.",
+  "voiceWakeWordResumeTimeoutSecondsDescription": "Riprende automaticamente l’ascolto se la pagina non chiama setWakeWordActive(true) dopo il passaggio di controllo. Attende che finisca la riproduzione audio del turno vocale per evitare di interromperlo.",
   "voiceSlightlySensitive": "Poco sensibile",
   "voiceModeratelySensitive": "Moderatamente sensibile",
   "voiceOnDevice": "Su dispositivo",

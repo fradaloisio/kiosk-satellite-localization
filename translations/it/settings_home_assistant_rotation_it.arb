@@ -14,5 +14,5 @@
   "haRotationHint": "Ciclo attraverso la vista, tempo di dimora, dissolvenza",
   "haExternalPages": "Pagine esterne",
   "haFadeError": "Scegliere una durata della dissolvenza da 0.2 a 5 secondi.",
-  "haPauseRemoteHelp": "Le interazioni vocali si fermano sempre fino alla fine. 0 continua a ruotare."
+  "haPauseRemoteHelp": "Un tocco sospende la rotazione per questo intervallo. Ogni tocco fa ripartire il conto alla rovescia. La rotazione resta sospesa durante le interazioni vocali e riprende quando terminano. Imposta 0 per mantenere la rotazione."
 }
