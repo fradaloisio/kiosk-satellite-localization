@@ -47,6 +47,6 @@
   "gestureButton": "Pulsante",
   "gesturePress": "Rassegna",
   "gestureDoublePress": "Doppia stampa",
-  "gestureHoldPress": "Aspetta.",
+  "gestureHoldPress": "Aspetta",
   "gestureButtonDefaults": "Un pulsante non richiede alcun gesto mantiene il proprio lavoro: Risposte d'azione, si ferma o respinge ciò che sta suonando e altrimenti avvia un comando vocale, Microfono mute Voice Satellite e i pulsanti di volume cambiano il volume."
 }

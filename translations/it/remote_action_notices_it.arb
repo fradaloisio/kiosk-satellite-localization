@@ -2,7 +2,7 @@
   "@@locale": "it",
   "remoteDisableTitle": "Spegnere la gestione remota?",
   "remoteDisableHelp": "AVVERTENZA: Non sarai più in grado di accedere a questa pagina. Per riattivarla, utilizzare il dispositivo o l'interruttore di gestione remota in Home Assistant.",
-  "remoteDisableConfirm": "Spegnilo.",
+  "remoteDisableConfirm": "Spegnilo",
   "remoteCopyHelp": "Selezionare la chiave e copiarla a mano.",
   "remoteSaveSettingFailed": "Non riuscivo a salvare questa impostazione."
 }

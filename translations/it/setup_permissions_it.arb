@@ -11,6 +11,6 @@
   "setupScreenControl": "Controllo dello schermo",
   "setupScreenControlHelp": "Consente a Kiosk Satellite di spegnere lo schermo su richiesta (admin di dispositivo).",
   "setupGrantPermissions": "Concedere autorizzazioni sul dispositivo",
-  "setupRequestingPermissions": "Richiesta sul dispositivo...",
+  "setupRequestingPermissions": "Richiesta sul dispositivo…",
   "setupPermissionsRequested": "Permessi richiesti sul dispositivo"
 }

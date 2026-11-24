@@ -31,7 +31,7 @@
   "pluginListYourPluginInCommunityPlugins": "Elenca il tuo plugin in Community Plugins.",
   "pluginCouldNotReachCommunityPlugins": "Non è possibile raggiungere i Plugin Comunitari. Controllare la connessione internet.",
   "pluginCouldNotLoadCommunityPlugins": "Non poteva caricare i Plugin della Comunità.",
-  "pluginTurnOn": "Accendilo.",
+  "pluginTurnOn": "Accendilo",
   "pluginTurnOnEnablePluginsToInstall": "Attivare Attiva Plugins per installare questo plugin.",
   "pluginPreviousPage": "Pagina precedente",
   "pluginNextPage": "Pagina successiva",

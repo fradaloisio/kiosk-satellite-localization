@@ -2,7 +2,7 @@
   "@@locale": "it",
   "fleetSyncedCredentials": "Credenziali",
   "fleetTheSettingsOnThisListWillNotBeSynced": "Le impostazioni di questa lista non saranno sincronizzate con i seguaci.",
-  "fleetNothingLeftOut": "Non e' rimasto niente.",
+  "fleetNothingLeftOut": "Non e' rimasto niente",
   "fleetSyncItAgain": "# Sync it again #",
   "fleetAddASetting": "Aggiungi un'impostazione",
   "fleetExcludeASetting": "Escludere l'impostazione",

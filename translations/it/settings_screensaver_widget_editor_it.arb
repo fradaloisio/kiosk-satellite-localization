@@ -25,7 +25,7 @@
   "screensaverOverlayVisibleStates": "Stati vivibili",
   "screensaverOverlayVisibleStatesHelp": "Mostra il widget solo quando il suo valore è uno di questi, separati da virgole. Lascia vuoto per mostrarlo sempre.",
   "screensaverOverlayFontSystem": "Sistema",
-  "screensaverOverlayFontSerif": "Serif.",
+  "screensaverOverlayFontSerif": "Serif",
   "screensaverOverlayFontCondensed": "Condensato",
   "screensaverOverlayFontMonospace": "Monospazio",
   "screensaverOverlayFontCasual": "Casuale",

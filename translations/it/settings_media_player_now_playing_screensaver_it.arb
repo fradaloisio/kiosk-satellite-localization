@@ -10,7 +10,7 @@
   "settingSendspinFullscreenOverrideBrightnessDescription": "Utilizzare la luminosità dello schermo normale invece della luminosità del salvaschermo mentre In riproduzione è mostrato accanto a un salvaschermo.",
   "mediaScreensaverHeading": "Salvaschermo",
   "mediaDefaultFill": "Predefinito",
-  "mediaFillOff": "Fuori!",
+  "mediaFillOff": "Disattivato",
   "mediaFillSmart": "Smart Smart",
-  "mediaFillAlways": "Sempre."
+  "mediaFillAlways": "Sempre"
 }

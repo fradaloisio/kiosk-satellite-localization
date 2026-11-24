@@ -21,7 +21,7 @@
   "haRawUpdates": "Qualcosa su questa pagina riceve comunque ogni aggiornamento dell'entità, quindi filtrare salva meno qui.",
   "haAllStates": "Questa vista legge tutti gli stati dell'entità, quindi i suoi aggiornamenti non sono filtrati.",
   "haUnknownEntities": "Le entità di questa vista non possono essere determinate, quindi i suoi aggiornamenti non sono filtrati.",
-  "haWaiting": "In attesa che la dashboard carichi...",
+  "haWaiting": "In attesa che la dashboard carichi…",
   "haShowScan": "Mostra i dettagli della scansione.",
   "haThreshold": "Questa vista utilizza entità {count}, che attraversa la soglia di filtraggio.",
   "haCustomPageFilter": "Non utilizzato su pagine personalizzate."

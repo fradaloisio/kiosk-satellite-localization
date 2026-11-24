@@ -1,10 +1,10 @@
 {
   "@@locale": "it",
   "filesUpload": "File di caricamento",
-  "filesUploading": "Caricamento...",
+  "filesUploading": "Caricamento…",
   "filesUploadFailed": "Caricamento in corso",
   "filesUploaded": "Caricato",
-  "filesUploadingProgress": "Caricamento {current} di {total}...",
+  "filesUploadingProgress": "Caricamento {current} di {total}…",
   "filesUploadedCount": "File {count} caricati",
   "filesPermissionMissing": "\"Tutti i file di accesso\" autorizzazione mancante",
   "filesPermissionHelp": "Senza di esso solo la cartella app può essere sfogliata. La schermata di sovvenzione si apre sul tablet.",

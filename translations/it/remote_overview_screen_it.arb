@@ -1,7 +1,7 @@
 {
   "@@locale": "it",
   "overviewNoScreenshot": "Nessun screenshot",
-  "overviewStill": "Ancora.",
+  "overviewStill": "Ancora",
   "overviewLive": "In tempo reale",
   "overviewFullSize": "Dimensione completa",
   "overviewLiveInterval": "Vivere, ogni 5 secondi",

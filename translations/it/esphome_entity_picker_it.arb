@@ -3,7 +3,7 @@
   "esphomeAllExposed": "Tutte le entità disponibili",
   "esphomeExcludedCount": "{count} escluso",
   "esphomeEntitySearch": "Enti di ricerca",
-  "esphomeEntityLoading": "Enti di carico...",
+  "esphomeEntityLoading": "Enti di carico…",
   "esphomeEntityUnavailable": "Attualmente non disponibile",
   "esphomeEntityNoMatch": "Nessuna entità corrispondente",
   "esphomeEntityLoadFailed": "Non poteva caricare le entità. Chiudi il raccoglitore e riprovare.",

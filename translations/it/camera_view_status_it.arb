@@ -10,7 +10,7 @@
   "cameraViewerHaRetry": "Non può raggiungere Home Assistant. Ripristina in {seconds}s",
   "cameraViewerServerRetry": "Impossibile raggiungere il server della telecamera. Nuovo tentativo tra {seconds} s",
   "cameraViewerConnectionRetry": "La connessione non è riuscita. Retrying in {seconds}s",
-  "cameraViewerStartRetry": "Il server della fotocamera non poteva avviare questo flusso.",
+  "cameraViewerStartRetry": "Il server della fotocamera non ha potuto avviare il flusso. Nuovo tentativo...",
   "cameraViewerStartDelayedRetry": "Il server della telecamera non ha potuto avviare il flusso. Nuovo tentativo tra {seconds} s",
   "cameraViewerMissingRetry": "Stream non trovato sul server della fotocamera. Retrying in {seconds}s",
   "cameraViewerLoginRetry": "Il server della telecamera ha rifiutato l’accesso. Nuovo tentativo tra {seconds} s",

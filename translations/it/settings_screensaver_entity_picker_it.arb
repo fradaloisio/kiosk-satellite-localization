@@ -7,7 +7,7 @@
   "screensaverOverlayValue": "Valore visualizzato",
   "screensaverOverlayState": "Stato",
   "screensaverOverlayEntityRequired": "Scegli un'entità.",
-  "screensaverOverlaySearching": "Sto cercando...",
+  "screensaverOverlaySearching": "Sto cercando…",
   "screensaverOverlayUnreachable": "Non poteva raggiungere Home Assistant",
   "screensaverOverlayNoAnswer": "Il dispositivo non ha risposto."
 }

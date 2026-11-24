@@ -11,7 +11,7 @@
   "gestureEmptyHelp": "Un gesto innesca la sua azione senza alcun controllo visibile.",
   "gestureDeleteTooltip": "Cancellare il gesto",
   "gestureDeleteTitle": "Eliminare il gesto?",
-  "gestureDeleteMessage": "Trigger: {trigger}. Azione: {action}.",
+  "gestureDeleteMessage": "Rimuovere questo gesto? Attivazione: {trigger}. Azione: {action}.",
   "gestureAdd": "Aggiungere il gesto",
   "gestureAddHelp": "Scegli un gesto e l'azione che innesca.",
   "gestureTouchHelp": "Si osservano gesti, non bloccati: i rubinetti raggiungono anche la dashboard, quindi gli angoli e le forme multifinger li impediscono di sparare qualsiasi cosa.",

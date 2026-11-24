@@ -10,7 +10,7 @@
   "fleetItsSettingsReplaceThisKioskSInTheCategories": "Le sue impostazioni sostituiscono questo kiosk nelle categorie che si sincronizza, d'ora in poi, questo kiosk mantiene il suo nome e l'identità.",
   "fleetItsSettingsReplaceThisKioskSInTheCategoriesDetail": "Questo kiosk mantiene il suo nome, il suo Home Assistant, Music Assistant e ESPHome selves e le sue scelte hardware. È possibile lasciare la flotta in qualsiasi momento sotto Impostazioni, Fleet Management.",
   "fleetAccept": "Accettare",
-  "fleetLookingForOtherKiosks": "Alla ricerca di altri kiosk...",
+  "fleetLookingForOtherKiosks": "Alla ricerca di altri kiosk…",
   "fleetNoOtherKioskFoundOnThisNetworkAKiosk": "Utilizzare Add by IP per trovare uno a un indirizzo conosciuto.",
   "fleetFollowsName": "Segui {name}",
   "fleetLeadsAFleet": "Conduce una flotta",
@@ -20,7 +20,7 @@
   "fleetSettingsFromTheLeaderArriveShortly": "Le impostazioni del leader arrivano a breve.",
   "fleetAddByIp": "Aggiungi da IP",
   "fleetFindKiosk": "Trova il kiosk",
-  "fleetFindingKiosk": "Trovare kiosk...",
+  "fleetFindingKiosk": "Trovare kiosk…",
   "fleetIpAddress": "Indirizzo IP",
   "fleetRemoteAdminPort": "Porta di amministrazione remota",
   "fleetAddressHelp": "Inserisci l'indirizzo kiosk IP e la porta di amministrazione remota."

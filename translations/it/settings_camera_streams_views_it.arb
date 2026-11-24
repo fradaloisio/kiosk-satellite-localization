@@ -26,5 +26,5 @@
   "cameraStreamsDeleteNamed": "Eliminare {name}?",
   "cameraStreamsCannotUndo": "Questo non può essere annullato.",
   "cameraStreamsShow": "Mostra",
-  "cameraStreamsStop": "Fermati."
+  "cameraStreamsStop": "Fermati"
 }

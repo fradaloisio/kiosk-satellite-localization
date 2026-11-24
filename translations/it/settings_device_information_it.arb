@@ -24,7 +24,7 @@
   "deviceWakeStatus": "Situazione della parola di attivazione",
   "deviceEngine": "Motore",
   "deviceWakeWords": "Sveglia parole",
-  "deviceStopWord": "Smettila di parlare.",
+  "deviceStopWord": "Smettila di parlare",
   "deviceMotionDetection": "Rilevamento del movimento",
   "deviceFaceDetection": "Rilevamento del viso",
   "deviceProvider": "Fornitore",

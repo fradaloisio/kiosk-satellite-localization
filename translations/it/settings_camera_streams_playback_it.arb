@@ -13,7 +13,7 @@
   "settingCameraAutoDismissSecondsTitle": "Chiudi automaticamente dopo",
   "settingCameraAutoDismissCompassDescription": "Chiudi la vista fotocamera dopo questo intervallo. Imposta 0 per lasciarla aperta. Il salvaschermo della fotocamera resta invariato. Nel layout Compass si applica l’opzione Ritorna al centro.",
   "cameraStreamsPlayback": "Gioco d'azzardo",
-  "cameraStreamsOff": "Fuori!",
+  "cameraStreamsOff": "Disattivato",
   "cameraStreamsSeconds": "{seconds}",
   "cameraStreamsGridHelp": "Per i dispositivi a bassa potenza, utilizzare flussi Go2RTC a bassa risoluzione in vista e impostare facoltativamente un flusso a schermo intero separato."
 }

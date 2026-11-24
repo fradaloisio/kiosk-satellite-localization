@@ -34,7 +34,7 @@
   "settingVoiceOverlayModeTitle": "Modalità di sovrapposizione",
   "settingVoiceOverlayModeDescription": "Docked mostra una piccola bolla sulla dashboard. Non mostra risultati ricchi come immagini, meteo o video.",
   "voiceOverlayFullScreen": "Schermo intero",
-  "voiceOverlayDocked": "Doc:",
-  "voiceListeningEllipsis": "Ascoltare...",
+  "voiceOverlayDocked": "Ancorato",
+  "voiceListeningEllipsis": "Ascoltare…",
   "voiceSkinVoiceOnly": "Solo la voce"
 }

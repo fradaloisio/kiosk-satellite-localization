@@ -10,10 +10,10 @@
   "voiceTimerDismissHint": "Toccare per annullare l'avviso del timer.",
   "voiceTimersViewTitle": "Timer",
   "voiceTimersEmpty": "Nessun timer",
-  "voiceTimerPause": "Pausa.",
+  "voiceTimerPause": "Pausa",
   "voiceTimerResume": "Ripresa",
   "voiceTimerDismiss": "Discorso",
-  "voiceTimerTimesUp": "Tempo scaduto.",
+  "voiceTimerTimesUp": "Tempo scaduto",
   "voiceTimerPaused": "In pausa",
   "voiceTimersShareNone": "Nessun kiosk scelto",
   "voiceTimersShareEmpty": "Nessun altro kiosk trovato. Accendere l'amministratore remoto e Trova altri kiosk su ciascuno.",
@@ -28,7 +28,7 @@
   "voiceTimerHours": "Ore",
   "voiceTimerMinutes": "Processo verbale",
   "voiceTimerSeconds": "Secondi",
-  "voiceTimerStartFailed": "Non potrebbe iniziare il timer.",
+  "voiceTimerStartFailed": "Impossibile avviare il timer.",
   "timersManage": "Gestione dei timer",
   "voiceTimerStartUnavailable": "Accendere Voice Satellite su questo kiosk per impostare timer qui."
 }

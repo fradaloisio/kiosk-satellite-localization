@@ -20,7 +20,7 @@
   "deviceRestoreStorage": "Ripristinare lo storage locale di Webview",
   "deviceRestoreStorageHelp": "Include la Home Assistant firmata in sessione e la selezione Voice Satellite assist_satellite - due dispositivi non devono condividere un satellite.",
   "deviceDownload": "Scarica",
-  "deviceChooseFile": "Scegli il file...",
+  "deviceChooseFile": "Scegli il file…",
   "deviceImportFailedSentence": "L'importazione è fallita.",
   "deviceReplaceNamed": "Sostituire \"{name}\""
 }

@@ -40,7 +40,7 @@
   "cameraCaptureRejected": "Altre dimensioni della fotocamera non sono disponibili nella configurazione di cattura corrente.",
   "cameraMotionEventsHeading": "Eventi in movimento",
   "settingCameraOnvifEventsTitle": "Inviare eventi di movimento",
-  "settingCameraOnvifEventsDescription": "Notifica ai client ONVIF, ad esempio i videoregistratori di rete (NVR), quando viene rilevato un movimento.",
+  "settingCameraOnvifEventsDescription": "Notifica ai client ONVIF, come i videoregistratori di rete, quando viene rilevato un movimento.",
   "settingCameraOnvifEventsSourceTitle": "Fonte di movimento",
   "settingCameraOnvifEventsSourceDescription": "Il sensore che invia eventi di movimento.",
   "cameraOnvifEventsSourceCamera": "Sensore di movimento della fotocamera",

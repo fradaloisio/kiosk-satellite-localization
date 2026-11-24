@@ -1,7 +1,7 @@
 {
   "@@locale": "it",
   "launcherNoneHelp": "Non ancora. Scegli le app che il lanciatore offre.",
-  "launcherNone": "Non ancora.",
+  "launcherNone": "Non ancora",
   "launcherListFailed": "Non è possibile elencare le applicazioni",
   "launcherListError": "Non è possibile elencare le applicazioni: {error}",
   "launcherListingFailed": "elenco fallito",

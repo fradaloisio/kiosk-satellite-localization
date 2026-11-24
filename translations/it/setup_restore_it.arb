@@ -6,7 +6,7 @@
   "setupImportFailedHelp": "Il file non poteva essere applicato.",
   "setupBackupNoDashboard": "Backup non ha dashboard",
   "setupBackupNoDashboardHelp": "Le impostazioni sono state applicate, ma questo backup è stato preso prima che il suo dispositivo è stato impostato, quindi non c'è alcun dashboard da mostrare.",
-  "setupImporting": "Importare...",
+  "setupImporting": "Importare…",
   "setupRemoteRestoreHelp": "Importa una configurazione esportata da Kiosk Satellite e salta il resto di questa procedura guidata.",
   "setupFinishOnDevice": "Finitura sul dispositivo",
   "setupFinishOnDeviceHelp": "La configurazione è stata importata. Rispondere alle richieste di autorizzazione sullo schermo del tablet - questa pagina continua automaticamente quando la dashboard carica.",

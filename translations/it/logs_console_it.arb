@@ -6,7 +6,7 @@
   "logsShareSubject": "log console Kiosk Satellite",
   "logsInput": "Eseguire JavaScript nella pagina",
   "logsInputHistory": "Eseguire JavaScript nella pagina (Enter to run, Up/Down per la storia)",
-  "logsRun": "Corri!",
+  "logsRun": "Esegui",
   "logsEvaluationFailed": "valutazione fallita",
   "logsDeviceUnreachable": "dispositivo non raggiungibile"
 }

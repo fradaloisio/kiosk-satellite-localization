@@ -8,7 +8,7 @@
   "settingHaAutoLoginDescription": "Accedi alla dashboard con il gettone di accesso sopra invece di mostrare la pagina di login Home Assistant.",
   "haValidate": "Convalida",
   "haValidateConnection": "Connessione valida",
-  "haChecking": "Controllare...",
+  "haChecking": "Controllare…",
   "haConnected": "Collegato",
   "haConnectedRemote": "Collegato.",
   "haNotValidated": "Non ancora validato. Le impostazioni qui sotto sbloccare una volta che la connessione viene visualizzata.",

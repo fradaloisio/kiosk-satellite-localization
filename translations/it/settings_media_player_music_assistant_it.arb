@@ -15,7 +15,7 @@
   "mediaKioskMenu": "Menù Kiosk",
   "mediaValidateConnection": "Connessione valida",
   "mediaValidate": "Convalida",
-  "mediaChecking": "Controllare...",
+  "mediaChecking": "Controllare…",
   "mediaConnected": "Collegato",
   "mediaConnectedVersion": "Collegato a Music Assistant {version}",
   "mediaValidateHint": "Controllare l'indirizzo e il token prima di accendere la scorciatoia o i testi.",

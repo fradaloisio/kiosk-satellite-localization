@@ -13,5 +13,5 @@
   "gestureFired": "Evento antincendio {value}",
   "gestureFireFailed": "Non poteva sparare evento {value}",
   "gestureDone": "Fatto",
-  "gestureFailed": "Fatta."
+  "gestureFailed": "Fatta"
 }

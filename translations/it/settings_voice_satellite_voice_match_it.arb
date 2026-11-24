@@ -18,7 +18,7 @@
   "settingVoiceMatchSpeakerSensorTitle": "Sensore del diffusore",
   "settingVoiceMatchSpeakerSensorDescription": "Aggiunge un sensore di altoparlante a questo kiosk in Home Assistant, per le istruzioni di automazione e di agente.",
   "voiceMatchOptionAnyone": "Chiunque",
-  "voiceMatchOptionQuiet": "Sta' tranquilla.",
+  "voiceMatchOptionQuiet": "Sta' tranquilla",
   "voiceMatchOptionChime": "Riproduci il meccanismo di errore",
   "voiceMatchConnecting": "Collegamento",
   "voiceMatchSearching": "Ricerca",

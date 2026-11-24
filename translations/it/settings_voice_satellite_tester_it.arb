@@ -18,7 +18,7 @@
   "voiceLogNear": "vicino",
   "voiceLogScore": "punteggio",
   "voiceLogDecoded": "decodificato",
-  "voiceLogDistance": "Ed eccome.",
-  "voiceLogConfidence": "?",
+  "voiceLogDistance": "dist",
+  "voiceLogConfidence": "conf",
   "voiceTesterPlayRecent": "Giocare dura 10 secondi"
 }
