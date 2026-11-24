@@ -9,6 +9,8 @@
   "settingScreensaverImmichFillDescription": "Ingrandisce sempre ogni foto, tagliando quello che non si adatta.",
   "settingScreensaverImmichCropFacesTitle": "Crocifisso intorno ai volti",
   "settingScreensaverImmichCropFacesDescription": "Quando le foto vengono ritagliate per riempire lo schermo, i volti rilevati da Immich rimangono visibili. Richiede l’autorizzazione face.read.",
+  "settingScreensaverImmichCropVideosTitle": "Ritaglia i video",
+  "settingScreensaverImmichCropVideosDescription": "Ritaglia i video per riempire lo schermo, come per le foto. Disattiva l’opzione per mostrare ogni video per intero.",
   "settingScreensaverImmichPairPortraitTitle": "Coppia foto di ritratto",
   "settingScreensaverImmichPairPortraitDescription": "Mostra due foto ritratto fianco a fianco in modo da riempire lo schermo.",
   "settingScreensaverImmichPairLandscapeTitle": "Coppia foto paesaggistiche",
